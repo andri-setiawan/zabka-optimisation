@@ -1,0 +1,1757 @@
+[
+  {
+    "title": "Decision support for build-to-order supply chain management through multiobjective optimization",
+    "abstract": "This is the post-print version of the final paper published in International Journal of Production Economics. The published article is available from the link below. Changes resulting from the publishing process, such as peer review, editing, corrections, structural formatting, and other quality control mechanisms may not be reflected in this document. Changes may have been made to this work since it was submitted for publication. Copyright @ 2010 Elsevier B.V.This paper aims to identify the gaps in decision-making support based on multiobjective optimization (MOO) for build-to-order supply chain management (BTO-SCM). To this end, it reviews the literature available on modelling build-to-order supply chains (BTO-SC) with the focus on adopting MOO techniques as a decision support tool. The literature has been classified based on the nature of the decisions in different part of the supply chain, and the key decision areas across a typical BTO-SC are discussed in detail. Available software packages suitable for supporting decision making in BTO supply chains are also identified and their related solutions are outlined. The gap between the modelling and optimization techniques developed in the literature and the decision support needed in practice are highlighted. Future research directions to better exploit the decision support capabilities of MOO are proposed. These include: reformulation of the extant optimization models with a MOO perspective, development of decision supports for interfaces not involving manufacturers, development of scenarios around service-based objectives, development of efficient solution tools, considering the interests of each supply chain party as a separate objective to account for fair treatment of their requirements, and applying the existing methodologies on real-life data sets.Brunel Research Initiative and Enterprise Fund (BRIEF",
+    "year": 2012,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1016/j.ijpe.2010.11.016"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Askariazad, MH"
+      },
+      {
+        "name": "Gallear, D"
+      },
+      {
+        "name": "Mansouri, SA"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/20496354.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "10.1016/j.ijpe.2010.11.016",
+    "_score": 11.0
+  },
+  {
+    "title": "Chemical industry supply chain optimisation using agent-based modelling",
+    "abstract": "In this paper we present an application of Supply Chain Spread Sheet Simulator (SCSS) in a task dealing with chemical industry supply chain redesign and optimisation. SCSS uses principles of Agent-Based Modelling combining 4 types of agents with 3 algorithms to control their behaviour. Location Algorithm is used to place the logistics objects satisfying the demand of customers, Clarke&Wright's Savings Algorithm is applied to plan the routes and Past Stock Movement Simulation is used to control the stock levels. SCSS is developed in MS Excel using programming language Visual Basic for Applications. Its basic functionality is discussed simulating a real task dealing with the redesign of the distribution system for goods coming from chemical industry in the Czech Republic. We test 6 different structures of the distribution system differing in number of located logistics objects ranging from 1 to 6. Based on the outputs of SCSS recalculated to distribution costs we suggest decreasing the number of located warehouses from 6 to 1 estimating almost 33 % distribution costs savings per year",
+    "year": 2013,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Dyntar, Jakub"
+      },
+      {
+        "name": "Škvor, Jan"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/14742047.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "chemical industry supply chain optimisation using agent based modelling",
+    "_score": 9.0
+  },
+  {
+    "title": "Algebraic optimization of recursive queries",
+    "abstract": "Over the past few years, much attention has been paid to deductive databases. They offer a logic-based interface, and allow formulation of complex recursive queries. However, they do not offer appropriate update facilities, and do not support existing applications. To overcome these problems an SQL-like interface is required besides a logic-based interface.\\ud\n\\ud\nIn the PRISMA project we have developed a tightly-coupled distributed database, on a multiprocessor machine, with two user interfaces: SQL and PRISMAlog. Query optimization is localized in one component: the relational query optimizer. Therefore, we have defined an eXtended Relational Algebra that allows recursive query formulation and can also be used for expressing executable schedules, and we have developed algebraic optimization strategies for recursive queries. In this paper we describe an optimization strategy that rewrites regular (in the context of formal grammars) mutually recursive queries into standard Relational Algebra and transitive closure operations. We also describe how to push selections into the resulting transitive closure operations.\\ud\n\\ud\nThe reason we focus on algebraic optimization is that, in our opinion, the new generation of advanced database systems will be built starting from existing state-of-the-art relational technology, instead of building a completely new class of systems",
+    "year": 1992,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1016/0169-023x(92)90029-b"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Apers, Peter M.G."
+      },
+      {
+        "name": "Houtsma, M.A.W."
+      },
+      {
+        "name": "Houtsma, Maurice A.W."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/11454271.pdf"
+    },
+    "source_query": "large language models operations research optimization problem formulation",
+    "source": "CORE",
+    "_key": "10.1016/0169-023x(92)90029-b",
+    "_score": 7.0
+  },
+  {
+    "title": "Multi Agent Systems in Logistics: A Literature and State-of-the-art Review",
+    "abstract": "Based on a literature survey, we aim to answer our main question: â€œHow should we plan and execute logistics in supply chains that aim to meet todayâ€™s requirements, and how can we support such planning and execution using IT?â€ Todayâ€™s requirements in supply chains include inter-organizational collaboration and more responsive and tailored supply to meet specific demand. Enterprise systems fall short in meeting these requirements The focus of planning and execution systems should move towards an inter-enterprise and event-driven mode. Inter-organizational systems may support planning going from supporting information exchange and henceforth enable synchronized planning within the organizations towards the capability to do network planning based on available information throughout the network. We provide a framework for planning systems, constituting a rich landscape of possible configurations, where the centralized and fully decentralized approaches are two extremes. We define and discuss agent based systems and in particular multi agent systems (MAS). We emphasize the issue of the role of MAS coordination architectures, and then explain that transportation is, next to production, an important domain in which MAS can and actually are applied. However, implementation is not widespread and some implementation issues are explored. In this manner, we conclude that planning problems in transportation have characteristics that comply with the specific capabilities of agent systems. In particular, these systems are capable to deal with inter-organizational and event-driven planning settings, hence meeting todayâ€™s requirements in supply chain planning and execution.supply chain;MAS;multi agent systems",
+    "year": null,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Lang, N.A."
+      },
+      {
+        "name": "Moonen, J.M."
+      },
+      {
+        "name": "Srour, F.J."
+      },
+      {
+        "name": "Zuidwijk, R.A."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/6906241.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "multi agent systems in logistics a literature and state of the art review",
+    "_score": 7.0
+  },
+  {
+    "title": "EDI and intelligent agents integration to manage food chains",
+    "abstract": "Electronic Data Interchange (EDI) is a type of inter-organizational information system, which permits the automatic and structured communication of data between organizations. Although EDI is used for internal communication, its main application is in facilitating closer collaboration between organizational entities, e.g. suppliers, credit institutions, and transportation carriers. This study illustrates how agent technology can be used to solve real food supply chain inefficiencies and optimise the logistics network. For instance, we explain how agribusiness companies can use agent technology in association with EDI to collect data from retailers, group them into meaningful categories, and then perform different functions. As a result, the distribution chain can be managed more efficiently. Intelligent agents also make available timely data to inventory management resulting in reducing stocks and tied capital. Intelligent agents are adoptive to changes so they are valuable in a dynamic environment where new products or partners have entered into the supply chain. This flexibility gives agent technology a relative advantage which, for pioneer companies, can be a competitive advantage. The study concludes with recommendations and directions for further research",
+    "year": 2005,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Mangina, Eleni"
+      },
+      {
+        "name": "Vlachos, Ilias"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/17298965.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "edi and intelligent agents integration to manage food chains",
+    "_score": 7.0
+  },
+  {
+    "title": "Inventory drivers in a pharmaceutical supply chain",
+    "abstract": "In recent years, inventory reduction has been a key objective of pharmaceutical companies, especially within cost optimization initiatives. Pharmaceutical supply chains are characterized by volatile and unpredictable demands –especially in emergent markets-, high service levels, and complex, perishable finished-good portfolios, which makes keeping reasonable amounts of stock a true challenge. However, a one-way strategy towards zero-inventory is in reality inapplicable, due to the strategic nature and importance of the products being commercialised. Therefore, pharmaceutical supply chains are in need of new inventory strategies in order to remain competitive.\r\nFinished-goods inventory management in the pharmaceutical industry is closely related to the manufacturing systems and supply chain configurations that companies adopt. The factors considered in inventory management policies, however, do not always cover the full supply chain spectrum in which companies operate. This paper works under the pre-assumption that, in fact, there is a complex relationship between the inventory configurations that companies adopt and the factors behind them.\r\nThe intention of this paper is to understand the factors driving high finished-goods inventory levels in pharmaceutical supply chains and assist supply chain managers in determining which of them can be influenced in order to reduce inventories to an optimal degree. Reasons for reducing inventory levels are found in high inventory holding and scrap related costs; in addition to lost sales for not being able to serve the customers with the adequate shelf life requirements. The thesis conducts a single case study research in a multi-national pharmaceutical company, which is used to examine typical inventory configurations and the factors affecting these configurations.\r\nThis paper presents a framework that can assist supply chain managers in determining the most important inventory drivers in pharmaceutical supply chains. The findings in this study suggest that while external and downstream supply chain factors are recognized as being critical to pursue inventory optimization initiatives, pharmaceutical companies are oriented towards optimizing production processes and meeting regulatory requirements while still complying with high service levels, being internal factors the ones prevailing when making inventory management decisions.\r\nFurthermore, this paper investigates, through predictive modelling techniques, how various intrinsic and extrinsic factors influence the inventory configurations of the case study company. The study shows that inventory configurations are relatively unstable over time, especially in configurations that present high safety stock levels; and that production features and product characteristics are important explanatory factors behind high inventory levels. Regulatory requirements also play an important role in explaining the high strategic inventory levels that pharmaceutical companies hold",
+    "year": 2017,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Masvidal Andreu, Clara"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/157811883.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "inventory drivers in a pharmaceutical supply chain",
+    "_score": 7.0
+  },
+  {
+    "title": "E-Fulfillment and Multi-Channel Distribution â€“ A Review",
+    "abstract": "This review addresses the specific supply chain management issues of Internet fulfillment in a multi-channel environment. It provides a systematic overview of managerial planning tasks and reviews corresponding quantitative models. In this way, we aim to enhance the understanding of multi-channel e-fulfillment and to identify gaps between relevant managerial issues and academic literature, thereby indicating directions for future research. One of the recurrent patterns in todayâ€™s e-commerce operations is the combination of â€˜bricks-and-clicksâ€™, the integration of e-fulfillment into a portfolio of multiple alternative distribution channels. From a supply chain management perspective, multi-channel distribution provides opportunities for serving different customer segments, creating synergies, and exploiting economies of scale. However, in order to successfully exploit these opportunities companies need to master novel challenges. In particular, the design of a multi-channel distribution system requires a constant trade-off between process integration and separation across multiple channels. In addition, sales and operations decisions are ever more tightly intertwined as delivery and after-sales services are becoming key components of the product offering.Distribution;E-fulfillment;Literature Review;Online Retailing",
+    "year": null,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Agatz, N.A.H."
+      },
+      {
+        "name": "Fleischmann, M."
+      },
+      {
+        "name": "Nunen, J.A.E.E. van"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/6499245.pdf"
+    },
+    "source_query": "problem structuring methods decision support logistics optimization",
+    "source": "CORE",
+    "_key": "e fulfillment and multi channel distribution â a review",
+    "_score": 7.0
+  },
+  {
+    "title": "Model based decision support for planning of road maintenance",
+    "abstract": "In this article we describe a Decision Support Model, based on Operational Research methods, for the multi-period planning of maintenance of bituminous pavements. This model is a tool for the road manager to assist in generating an optimal maintenance plan for a road. Optimal means: minimising the Net Present Value of maintenance costs, while the plan is acceptable in terms of technical admissibility, resulting quality, etc. Global restrictions such as budget restrictions can also be imposed.\\ud\n\\ud\nAdequate grouping of maintenance activities in view of quantity discounts is an important aspect of our model. Our approach is to reduce the complexity of the optimisation by hierarchical structuring in four levels. In the lowest two levels maintenance per lane sector is considered, first with an unbounded planning horizon and next with a bounded planning horizon and time-windows for maintenance. The grouping of maintenance activities for a specific road is the topic of the third level. At the fourth level, which we will not consider in this article, the problem of optimal assignment of the available maintenance budgets over a set of roads or road sections takes place. Here, some results are presented to demonstrate the effects of grouping and to show that this hierarchical approach gives rise to improvements compared with previous work",
+    "year": 1996,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1016/0951-8320(95)00100-x"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "van Harten, Aart"
+      },
+      {
+        "name": "Worm, J.M."
+      },
+      {
+        "name": "Worm, J.M."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/11454537.pdf"
+    },
+    "source_query": "problem structuring methods decision support logistics optimization",
+    "source": "CORE",
+    "_key": "10.1016/0951-8320(95)00100-x",
+    "_score": 7.0
+  },
+  {
+    "title": "Developing a Strategic Stochastic Optimization Model, Robust Solutions, and a Decision Support System for Energy-efficient Buildings",
+    "abstract": "This research is being carried out in the context of the EnRiMa project (Energy Efficiency and Risk Management in Public Buildings), funded by the European Commission (EC) within the Seventh Framework Program. Energy Systems Optimization is increasing its importance due to regulations and de-regulations of the energy sector and the setting of targets such as the European Union's 20/20/20. This raises new types of dynamic stochastic energy models incorporating both strategic and operational decisions (short-term decisions have to be made from long-term perspectives) involving standard technological as well as market-oriented financial options. Thus, buildings managers are challenged by decision making processes to achieve robust optimal energy supply portfolio and they are encouraged to adopt an active role in energy markets. Moreover, those decisions must be made under inherently uncertain conditions. The goal of this paper is to develop an integrated framework for the representation and solution of such energy systems optimization problems, to be implemented in Decision Support Systems (DSSs) for robust decision making at the building level to face rising systemic economic and environmental global challenges. As the combination of operational and strategic decisions in the same model induces risk aversion in strategic decisions, the developed approach allows easy to include quantile-based measures such as Conditional Value at Risk (CVaR). Such complex energy systems need to be accurately described in a condensed way representing a large amount of variables, parameters and constraints reflecting endogenous and exogenous interdependencies, sustainability requirements and threats. Therefore, a comprehensive Symbolic Model Specification (SMS) development is a part of the research work. Using the R statistical software and programming language, an integrated framework is proposed to cover the needs of the whole decision making process, ranging from data analysis and estimation to effective representation of models and decisions to be used by both humans and machines. Such a framework provides an environment for enforcing the necessary stakeholders dialog. Furthermore, the framework allows communicating with different types of optimization software",
+    "year": 2014,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Cano, E.L."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/33971612.pdf"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "developing a strategic stochastic optimization model robust solutions and a decision support system for energy efficient buildings",
+    "_score": 7.0
+  },
+  {
+    "title": "Mapping domain characteristics influencing Analytics initiatives: The example of Supply Chain Analytics",
+    "abstract": "Purpose: Analytics research is increasingly divided by the domains Analytics is applied to. Literature offers little understanding whether aspects such as success factors, barriers and management of Analytics must be investigated domain-specific, while the execution of Analytics initiatives is similar across domains and similar issues occur. This article investigates characteristics of the execution of Analytics initiatives that are distinct in domains and can guide future research collaboration and focus. The research was conducted on the example of Logistics and Supply Chain Management and the respective domain-specific Analytics subfield of Supply Chain Analytics. The field of Logistics and Supply Chain Management has been recognized as early adopter of Analytics but has retracted to a midfield position comparing different domains.\r\n\r\nDesign/methodology/approach: This research uses Grounded Theory based on 12 semi-structured Interviews creating a map of domain characteristics based of the paradigm scheme of Strauss and Corbin.\r\n\r\nFindings: A total of 34 characteristics of Analytics initiatives that distinguish domains in the execution of initiatives were identified, which are mapped and explained. As a blueprint for further research, the domain-specifics of Logistics and Supply Chain Management are presented and discussed.\r\n\r\nOriginality/value: The results of this research stimulates cross domain research on Analytics issues and prompt research on the identified characteristics with broader understanding of the impact on Analytics initiatives. The also describe the status-quo of Analytics. Further, results help managers control the environment of initiatives and design more successful initiatives.DFG, 414044773, Open Access Publizieren 2019 - 2020 / Technische Universität Berli",
+    "year": 2020,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.14279/depositonce-9671"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Herden, Tino T."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/287885257.pdf"
+    },
+    "source_query": "data driven logistics optimization unstructured data",
+    "source": "CORE",
+    "_key": "10.14279/depositonce-9671",
+    "_score": 7.0
+  },
+  {
+    "title": "Data and Predictive Analytics Use for Logistics and Supply Chain Management",
+    "abstract": "Purpose\nThe purpose of this paper is to explore the social process of Big Data and predictive analytics (BDPA) use for logistics and supply chain management (LSCM), focusing on interactions among technology, human behavior and organizational context that occur at the technology’s post-adoption phases in retail supply chain (RSC) organizations.  Design/methodology/approach\nThe authors follow a grounded theory approach for theory building based on interviews with senior managers of 15 organizations positioned across multiple echelons in the RSC.  Findings\nFindings reveal how user involvement shapes BDPA to fit organizational structures and how changes made to the technology retroactively affect its design and institutional properties. Findings also reveal previously unreported aspects of BDPA use for LSCM. These include the presence of temporal and spatial discontinuities in the technology use across RSC organizations.  Practical implications\nThis study unveils that it is impossible to design a BDPA technology ready for immediate use. The emergent process framework shows that institutional and social factors require BDPA use specific to the organization, as the technology comes to reflect the properties of the organization and the wider social environment for which its designers originally intended. BDPA is, thus, not easily transferrable among collaborating RSC organizations and requires managerial attention to the institutional context within which its usage takes place.  Originality/value\nThe literature describes why organizations will use BDPA but fails to provide adequate insight into how BDPA use occurs. The authors address the “how” and bring a social perspective into a technology-centric area",
+    "year": 2019,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Barratt, Mark A."
+      },
+      {
+        "name": "Jin, Yao Henry"
+      },
+      {
+        "name": "Sodero, Anníbal C."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/299790966.pdf"
+    },
+    "source_query": "data driven logistics optimization unstructured data",
+    "source": "CORE",
+    "_key": "data and predictive analytics use for logistics and supply chain management",
+    "_score": 7.0
+  },
+  {
+    "title": "A General Simulation Framework for Supply Chain Modeling: State of the\n  Art and Case Study",
+    "abstract": "Nowadays there is a large availability of discrete event simulation software\nthat can be easily used in different domains: from industry to supply chain,\nfrom healthcare to business management, from training to complex systems\ndesign. Simulation engines of commercial discrete event simulation software use\nspecific rules and logics for simulation time and events management.\nDifficulties and limitations come up when commercial discrete event simulation\nsoftware are used for modeling complex real world-systems (i.e. supply chains,\nindustrial plants). The objective of this paper is twofold: first a state of\nthe art on commercial discrete event simulation software and an overview on\ndiscrete event simulation models development by using general purpose\nprogramming languages are presented; then a Supply Chain Order Performance\nSimulator (SCOPS, developed in C++) for investigating the inventory management\nproblem along the supply chain under different supply chain scenarios is\nproposed to readers.Comment: International Journal of Computer Science Issues online at\n  http://ijcsi.org/articles/A-General-Simulation-Framework-for-Supply-Chain-Modeling-State-of-the-Art-and-Case-Study.ph",
+    "year": 2010,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.48550/arxiv.1004.3271"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Cimino, Antonio"
+      },
+      {
+        "name": "Longo, Francesco"
+      },
+      {
+        "name": "Mirabelli, Giovanni"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1004.3271"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "10.48550/arxiv.1004.3271",
+    "_score": 5.0
+  },
+  {
+    "title": "A framework for smart production-logistics systems based on CPS and industrial IoT",
+    "abstract": "Industrial Internet of Things (IIoT) has received increasing attention from both academia and industry. However, several challenges including excessively long waiting time and a serious waste of energy still exist in the IIoT-based integration between production and logistics in job shops. To address these challenges, a framework depicting the mechanism and methodology of smart production-logistics systems is proposed to implement intelligent modeling of key manufacturing resources and investigate self-organizing configuration mechanisms. A data-driven model based on analytical target cascading is developed to implement the self-organizing configuration. A case study based on a Chinese engine manufacturer is presented to validate the feasibility and evaluate the performance of the proposed framework and the developed method. The results show that the manufacturing time and the energy consumption are reduced and the computing time is reasonable. This paper potentially enables manufacturers to deploy IIoT-based applications and improve the efficiency of production-logistics systems",
+    "year": 2018,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/tii.2018.2845683"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Guo, Zhengang"
+      },
+      {
+        "name": "Liu, Ying"
+      },
+      {
+        "name": "Lv, Jingxiang"
+      },
+      {
+        "name": "Zhang, Yingfeng"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/161514346.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "10.1109/tii.2018.2845683",
+    "_score": 5.0
+  },
+  {
+    "title": "Resource Allocation for Network-Integrated Device-to-Device\n  Communications Using Smart Relays",
+    "abstract": "With increasing number of autonomous heterogeneous devices in future mobile\nnetworks, an efficient resource allocation scheme is required to maximize\nnetwork throughput and achieve higher spectral efficiency. In this paper,\nperformance of network-integrated device-to-device (D2D) communication is\ninvestigated where D2D traffic is carried through relay nodes. An optimization\nproblem is formulated for allocating radio resources to maximize end-to-end\nrate as well as conversing QoS requirements for cellular and D2D user equipment\nunder total power constraint. Numerical results show that there is a distance\nthreshold beyond which relay-assisted D2D communication significantly improves\nnetwork performance when compared to direct communication between D2D peers",
+    "year": 2013,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/glocomw.2013.6825052"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Hasan, Monowar"
+      },
+      {
+        "name": "Hossain, Ekram"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1311.0843"
+    },
+    "source_query": "AI assisted mathematical optimization model formulation",
+    "source": "CORE",
+    "_key": "10.1109/glocomw.2013.6825052",
+    "_score": 5.0
+  },
+  {
+    "title": "Computer assisted modelling of linear, integer and separable programming problems",
+    "abstract": "For mathematical programming (MP) to have greater impact upon the decision making process, MP software systems must offer suitable support in terms of model communication and modelling techniques . In this paper modelling techniques that allow logical restrictions to be modelled in integer programming terms are described and their implications discussed. In\r\naddition it is demonstrated that many classes of non-linearities which are not variable separable may be reformulated in piecewise linear form. It is shown that analysis of bounds is necessary in the following three important contexts: model reduction, formulation of logical restrictions as 0-1 mixed integer programs and reformulation of nonlinear programs as variable separable programs, It is observed that as well as incorporating an interface between the modeller and the optimiser there is a need to make available to the modeller software facilities which support the modelling techniques described here",
+    "year": 1984,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Darby-Dowman, K"
+      },
+      {
+        "name": "Lucas, CA"
+      },
+      {
+        "name": "Mitra, G"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/334901.pdf"
+    },
+    "source_query": "AI assisted mathematical optimization model formulation",
+    "source": "CORE",
+    "_key": "computer assisted modelling of linear integer and separable programming problems",
+    "_score": 5.0
+  },
+  {
+    "title": "Wireless Communication using Unmanned Aerial Vehicles (UAVs): Optimal\n  Transport Theory for Hover Time Optimization",
+    "abstract": "In this paper, the effective use of flight-time constrained unmanned aerial\nvehicles (UAVs) as flying base stations that can provide wireless service to\nground users is investigated. In particular, a novel framework for optimizing\nthe performance of such UAV-based wireless systems in terms of the average\nnumber of bits (data service) transmitted to users as well as UAVs' hover\nduration (i.e. flight time) is proposed. In the considered model, UAVs hover\nover a given geographical area to serve ground users that are distributed\nwithin the area based on an arbitrary spatial distribution function. In this\ncase, two practical scenarios are considered. In the first scenario, based on\nthe maximum possible hover times of UAVs, the average data service delivered to\nthe users under a fair resource allocation scheme is maximized by finding the\noptimal cell partitions associated to the UAVs. Using the mathematical\nframework of optimal transport theory, a gradient-based algorithm is proposed\nfor optimally partitioning the geographical area based on the users'\ndistribution, hover times, and locations of the UAVs. In the second scenario,\ngiven the load requirements of ground users, the minimum average hover time\nthat the UAVs need for completely servicing their ground users is derived. To\nthis end, first, an optimal bandwidth allocation scheme for serving the users\nis proposed. Then, given this optimal bandwidth allocation, the optimal cell\npartitions associated with the UAVs are derived by exploiting the optimal\ntransport theory. Results show that our proposed cell partitioning approach\nleads to a significantly higher fairness among the users compared to the\nclassical weighted Voronoi diagram. In addition, our results reveal an inherent\ntradeoff between the hover time of UAVs and bandwidth efficiency while serving\nthe ground users",
+    "year": 2017,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/twc.2017.2756644"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Bennis, Mehdi"
+      },
+      {
+        "name": "Debbah, Merouane"
+      },
+      {
+        "name": "Mozaffari, Mohammad"
+      },
+      {
+        "name": "Saad, Walid"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/628849931.pdf"
+    },
+    "source_query": "AI assisted mathematical optimization model formulation",
+    "source": "CORE",
+    "_key": "10.1109/twc.2017.2756644",
+    "_score": 5.0
+  },
+  {
+    "title": "Linear, integer separable and fuzzy programming problems: a united approach towards automatic reformulation",
+    "abstract": "For mathematical programming (MP) to have greater impact as a\r\ndecision tool, MP software systems must offer suitable support in\r\nterms of model communication and modelling techniques. In this\r\npaper modelling techniques that allow logical restrictions to be\r\nmodelled in integer programming terms are described and their\r\nimplications discussed. In addition it is demonstrated that many\r\nclasses of non-linearities which are not variable separable may be\r\nafter suitable algebraic manipulation put in a variable separable\r\nform. The methods of reformulating the fuzzy linear programming\r\nproblem as a Max-Min problem is also introduced. It is shown that\r\nanalysis of bounds plays a key role in the following four important\r\ncontexts: model reduction, reformulation of logical restrictions\r\nas 0-1 mixed integer programs, reformulation of nonlinear programs\r\nas variable separable programs and reformulation of fuzzy linear\r\nprograms. It is observed that as well as incorporating an\r\ninterface between the modeller and the optimiser there is a need to\r\nmake available to the modeller software facilities which support the\r\nmodel reformulation techniques described here",
+    "year": 1986,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Darby-Dowman, K"
+      },
+      {
+        "name": "Lucas, CA"
+      },
+      {
+        "name": "Mitra, G"
+      },
+      {
+        "name": "Yadegar, J"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/335244.pdf"
+    },
+    "source_query": "AI assisted mathematical optimization model formulation",
+    "source": "CORE",
+    "_key": "linear integer separable and fuzzy programming problems a united approach towards automatic reformulation",
+    "_score": 5.0
+  },
+  {
+    "title": "Improved dynamical particle swarm optimization method for structural dynamics",
+    "abstract": "A methodology to the multiobjective structural design of buildings based on an improved particle swarm optimization algorithm is presented, which has proved to be very efficient and robust in nonlinear problems and when the optimization objectives are in conflict. In particular, the behaviour of the particle swarm optimization (PSO) classical algorithm is improved by dynamically adding autoadaptive mechanisms that enhance the exploration/exploitation trade-off and diversity of the proposed algorithm, avoiding getting trapped in local minima. A novel integrated optimization system was developed, called DI-PSO, to solve this problem which is able to control and even improve the structural behaviour under seismic excitations. In order to demonstrate the effectiveness of the proposed approach, the methodology is tested against some benchmark problems. Then a 3-story-building model is optimized under different objective cases, concluding that the improved multiobjective optimization methodology using DI-PSO is more efficient as compared with those designs obtained using single optimization.Peer ReviewedPostprint (published version",
+    "year": 2019,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1155/2019/8250185"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Annicchiarico, W. C."
+      },
+      {
+        "name": "Cerrolaza Rivas, Miguel Enrique"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/224975667.pdf"
+    },
+    "source_query": "AI assisted mathematical optimization model formulation",
+    "source": "CORE",
+    "_key": "10.1155/2019/8250185",
+    "_score": 5.0
+  },
+  {
+    "title": "Gated Recurrent Neural Tensor Network",
+    "abstract": "Recurrent Neural Networks (RNNs), which are a powerful scheme for modeling\ntemporal and sequential data need to capture long-term dependencies on datasets\nand represent them in hidden layers with a powerful model to capture more\ninformation from inputs. For modeling long-term dependencies in a dataset, the\ngating mechanism concept can help RNNs remember and forget previous\ninformation. Representing the hidden layers of an RNN with more expressive\noperations (i.e., tensor products) helps it learn a more complex relationship\nbetween the current input and the previous hidden layer information. These\nideas can generally improve RNN performances. In this paper, we proposed a\nnovel RNN architecture that combine the concepts of gating mechanism and the\ntensor product into a single model. By combining these two concepts into a\nsingle RNN, our proposed models learn long-term dependencies by modeling with\ngating units and obtain more expressive and direct interaction between input\nand hidden layers using a tensor product on 3-dimensional array (tensor) weight\nparameters. We use Long Short Term Memory (LSTM) RNN and Gated Recurrent Unit\n(GRU) RNN and combine them with a tensor product inside their formulations. Our\nproposed RNNs, which are called a Long-Short Term Memory Recurrent Neural\nTensor Network (LSTMRNTN) and Gated Recurrent Unit Recurrent Neural Tensor\nNetwork (GRURNTN), are made by combining the LSTM and GRU RNN models with the\ntensor product. We conducted experiments with our proposed models on word-level\nand character-level language modeling tasks and revealed that our proposed\nmodels significantly improved their performance compared to our baseline\nmodels.Comment: Accepted at IJCNN 2016 URL :\n  http://ieeexplore.ieee.org/document/7727233",
+    "year": 2017,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/ijcnn.2016.7727233"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Adriani, Mirna"
+      },
+      {
+        "name": "Manurung, Ruli"
+      },
+      {
+        "name": "Nakamura, Satoshi"
+      },
+      {
+        "name": "Sakti, Sakriani"
+      },
+      {
+        "name": "Tjandra, Andros"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1706.02222"
+    },
+    "source_query": "natural language processing optimization problem formulation operations research",
+    "source": "CORE",
+    "_key": "10.1109/ijcnn.2016.7727233",
+    "_score": 5.0
+  },
+  {
+    "title": "Gunrock: A High-Performance Graph Processing Library on the GPU",
+    "abstract": "For large-scale graph analytics on the GPU, the irregularity of data access\nand control flow, and the complexity of programming GPUs have been two\nsignificant challenges for developing a programmable high-performance graph\nlibrary. \"Gunrock\", our graph-processing system designed specifically for the\nGPU, uses a high-level, bulk-synchronous, data-centric abstraction focused on\noperations on a vertex or edge frontier. Gunrock achieves a balance between\nperformance and expressiveness by coupling high performance GPU computing\nprimitives and optimization strategies with a high-level programming model that\nallows programmers to quickly develop new graph primitives with small code size\nand minimal GPU programming knowledge. We evaluate Gunrock on five key graph\nprimitives and show that Gunrock has on average at least an order of magnitude\nspeedup over Boost and PowerGraph, comparable performance to the fastest GPU\nhardwired primitives, and better performance than any other GPU high-level\ngraph library.Comment: 14 pages, accepted by PPoPP'16 (removed the text repetition in the\n  previous version v5",
+    "year": 2016,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1145/2851141.2851145"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Cederman D."
+      },
+      {
+        "name": "Goel A."
+      },
+      {
+        "name": "Gonzalez J. E."
+      },
+      {
+        "name": "Gregor D."
+      },
+      {
+        "name": "Jia Y."
+      },
+      {
+        "name": "Low Y."
+      },
+      {
+        "name": "Pande P. R."
+      },
+      {
+        "name": "Siek J. G."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1501.05387"
+    },
+    "source_query": "natural language processing optimization problem formulation operations research",
+    "source": "CORE",
+    "_key": "10.1145/2851141.2851145",
+    "_score": 5.0
+  },
+  {
+    "title": "Generating Abstractive Summaries from Meeting Transcripts",
+    "abstract": "Summaries of meetings are very important as they convey the essential content\nof discussions in a concise form. Generally, it is time consuming to read and\nunderstand the whole documents. Therefore, summaries play an important role as\nthe readers are interested in only the important context of discussions. In\nthis work, we address the task of meeting document summarization. Automatic\nsummarization systems on meeting conversations developed so far have been\nprimarily extractive, resulting in unacceptable summaries that are hard to\nread. The extracted utterances contain disfluencies that affect the quality of\nthe extractive summaries. To make summaries much more readable, we propose an\napproach to generating abstractive summaries by fusing important content from\nseveral utterances. We first separate meeting transcripts into various topic\nsegments, and then identify the important utterances in each segment using a\nsupervised learning approach. The important utterances are then combined\ntogether to generate a one-sentence summary. In the text generation step, the\ndependency parses of the utterances in each segment are combined together to\ncreate a directed graph. The most informative and well-formed sub-graph\nobtained by integer linear programming (ILP) is selected to generate a\none-sentence summary for each topic segment. The ILP formulation reduces\ndisfluencies by leveraging grammatical relations that are more prominent in\nnon-conversational style of text, and therefore generates summaries that is\ncomparable to human-written abstractive summaries. Experimental results show\nthat our method can generate more informative summaries than the baselines. In\naddition, readability assessments by human judges as well as log-likelihood\nestimates obtained from the dependency parser show that our generated summaries\nare significantly readable and well-formed.Comment: 10 pages, Proceedings of the 2015 ACM Symposium on Document\n  Engineering, DocEng' 201",
+    "year": 2016,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1145/2682571.2797061"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Filippova K."
+      },
+      {
+        "name": "Garg N."
+      },
+      {
+        "name": "Hsueh P.-Y."
+      },
+      {
+        "name": "Lin C.-Y."
+      },
+      {
+        "name": "Mehdad Y."
+      },
+      {
+        "name": "Murray G."
+      },
+      {
+        "name": "Rose T."
+      },
+      {
+        "name": "Roth D."
+      },
+      {
+        "name": "Skiena S."
+      },
+      {
+        "name": "Wang L."
+      },
+      {
+        "name": "Xie S."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1609.07033"
+    },
+    "source_query": "natural language processing optimization problem formulation operations research",
+    "source": "CORE",
+    "_key": "10.1145/2682571.2797061",
+    "_score": 5.0
+  },
+  {
+    "title": "Eco-innovative Method to Improve the Distribution Phase of Product",
+    "abstract": "The integration of the environmental dimension is crucial in industrial activity. Designers should integrate the new environmental constraints to adapt their approaches and methodologies in the framework of eco-innovation of industrial products and consumer goods. This paper proposes a new method integrating ecological aspects into the innovation process composed of three main stages: an analysis and structuring of the product, the formalization of the problem and the resolution phase. According to the structuring and the design objectives, actions can be selected and allow to guide the design to the most relevant modification to perform on the product. An illustration of the approach is applied on the optimization of the environmental impacts related to the logistical aspects",
+    "year": 2013,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/icadlt.2013.6568514"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "KAFFEL, Wafa Samet"
+      },
+      {
+        "name": "LEDOUX, Yann"
+      },
+      {
+        "name": "NADEAU, Jean-Pierre"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/29137726.pdf"
+    },
+    "source_query": "problem structuring methods decision support logistics optimization",
+    "source": "CORE",
+    "_key": "10.1109/icadlt.2013.6568514",
+    "_score": 5.0
+  },
+  {
+    "title": "WHY FUZZY ANALYTIC HIERARCHY PROCESS APPROACH FOR TRANSPORT PROBLEMS?",
+    "abstract": "The evaluation of transport projects has become increasingly complex. Different aspects have to be taken into account and the consequences of the problems are usually far reaching and the different policy alternatives are numerous and difficult to predict. Several pressure or action groups have also emerged causing an even more complex decision making process. The use of multi criteria analysis for the evaluation of transport projects has increased due to this increasing complexity of the problem situation. At the same time, the importance of stakeholders within this evaluation process should have been recognized. Researches on transport projects are generally carried out to provide information to policymakers that have to operate within restrictive parameters (political, economical, social, etcâ€¦). Researchers should therefore take greater account of the different priorities of stakeholders such as policymakers, private enterprises and households. These stakeholders should be incorporated explicitly in the evaluation process. The Analytic Hierarchy Process is one of the Fuzzy Multiple Criteria Decision Making methods. It can be applied in a very broad range of applications of decision problems. Logistics, urban planning, public politics, marketing, finance, education, economics are a part of this wide application area. In transport subjects it can be used for the evaluation of transport policy measures or decision making problems. Due to its wide range application area, it has been an exciting research subject for many different field researchers. The aim of this paper is to introduce AHP method and to offer how to benefit it for the preference of urban planners in transport problems. This paper is composed of two main parts. First part consists of the literature survey regarding with the AHP and its application areas. The advantage of methods had been mentioned. Second part focuses on a sample application of AHP technique. The study uses AHP technique to determine the selection criteria in the transhipment port selection decision-making process. Keywords: Analytic Hierarchy Process, Multi criteria analysis, Transshipment port selection.",
+    "year": null,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Senay Oguztimur"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/6580373.pdf"
+    },
+    "source_query": "problem structuring methods decision support logistics optimization",
+    "source": "CORE",
+    "_key": "why fuzzy analytic hierarchy process approach for transport problems",
+    "_score": 5.0
+  },
+  {
+    "title": "Evolution of a supply chain management game for the trading agent competition",
+    "abstract": "TAC SCM is a supply chain management game for the Trading Agent Competition (TAC). The purpose of TAC is to spur high quality research into realistic trading agent problems. We discuss TAC and TAC SCM: game and competition design, scientific impact, and lessons learnt",
+    "year": 2006,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Eriksson, Joakim"
+      },
+      {
+        "name": "Finne, Niclas"
+      },
+      {
+        "name": "Janson, Sverker"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/11433289.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "evolution of a supply chain management game for the trading agent competition",
+    "_score": 5.0
+  },
+  {
+    "title": "Investigating Decision Support Techniques for Automating Cloud Service\n  Selection",
+    "abstract": "The compass of Cloud infrastructure services advances steadily leaving users\nin the agony of choice. To be able to select the best mix of service offering\nfrom an abundance of possibilities, users must consider complex dependencies\nand heterogeneous sets of criteria. Therefore, we present a PhD thesis proposal\non investigating an intelligent decision support system for selecting Cloud\nbased infrastructure services (e.g. storage, network, CPU).Comment: Accepted by IEEE Cloudcom 2012 - PhD consortium trac",
+    "year": 2012,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/cloudcom.2012.6427501"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Georgakopoulos, Dimitrios"
+      },
+      {
+        "name": "Haller, Armin"
+      },
+      {
+        "name": "Ranjan, Rajiv"
+      },
+      {
+        "name": "Strazdins, Peter"
+      },
+      {
+        "name": "Zhang, Miranda"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1210.3077"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "10.1109/cloudcom.2012.6427501",
+    "_score": 5.0
+  },
+  {
+    "title": "Knowledge Representation Concepts for Automated SLA Management",
+    "abstract": "Outsourcing of complex IT infrastructure to IT service providers has\nincreased substantially during the past years. IT service providers must be\nable to fulfil their service-quality commitments based upon predefined Service\nLevel Agreements (SLAs) with the service customer. They need to manage, execute\nand maintain thousands of SLAs for different customers and different types of\nservices, which needs new levels of flexibility and automation not available\nwith the current technology. The complexity of contractual logic in SLAs\nrequires new forms of knowledge representation to automatically draw inferences\nand execute contractual agreements. A logic-based approach provides several\nadvantages including automated rule chaining allowing for compact knowledge\nrepresentation as well as flexibility to adapt to rapidly changing business\nrequirements. We suggest adequate logical formalisms for representation and\nenforcement of SLA rules and describe a proof-of-concept implementation. The\narticle describes selected formalisms of the ContractLog KR and their adequacy\nfor automated SLA management and presents results of experiments to demonstrate\nflexibility and scalability of the approach.Comment: Paschke, A. and Bichler, M.: Knowledge Representation Concepts for\n  Automated SLA Management, Int. Journal of Decision Support Systems (DSS),\n  submitted 19th March 200",
+    "year": 2006,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Bichler, Martin"
+      },
+      {
+        "name": "Paschke, Adrian"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/cs/0611122"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "knowledge representation concepts for automated sla management",
+    "_score": 5.0
+  },
+  {
+    "title": "Data driven safe vehicle routing analytics: a differential evolution algorithm to reduce CO2 emissions and hazardous risks",
+    "abstract": "Contemporary vehicle routing requires ubiquitous computing and massive data in order to deal with the three aspects of transportation such as operations, planning and safety. Out of the three aspects, safety is the most vital and this study refers safety as the reduction of CO2 emissions and hazardous risks. Hence, this paper presents a data driven multi-objective differential evolution (MODE) algorithm to solve the safe capacitated vehicle routing problems (CVRP) by minimizing the greenhouse gas emissions and hazardous risk. The proposed data driven MODE is tested using benchmark instances associated with real time data which have predefined load for each of the vehicle travelling on a specific route and the total capacity summed up from the customers cannot exceed the stated load. Pareto fronts are generated as the solution to this multi-objective problem. Computational results proved the viability of the data driven MODE algorithm to solve the multi-objective safe CVRP with a certain trade-off to achieve an efficient solution. Overall the study suggests 5% increment in cost function is essential to reduce the risk factors. The major contributions of this paper are to develop a multi-objective model for a safe vehicle routing and propose a multi-objective differential evolution (MODE) algorithm that can handle structured and unstructured data to solve the safe capacitated vehicle routing problem",
+    "year": 2018,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1007/s10479-016-2343-9"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Ponnambalam, S G"
+      },
+      {
+        "name": "Subramanian, Nachiappan"
+      },
+      {
+        "name": "Teoh, Boon Ean"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/46563714.pdf"
+    },
+    "source_query": "data driven logistics optimization unstructured data",
+    "source": "CORE",
+    "_key": "10.1007/s10479-016-2343-9",
+    "_score": 2.0
+  },
+  {
+    "title": "Air Taxi Skyport Location Problem for Airport Access",
+    "abstract": "Witnessing the rapid progress and accelerated commercialization made in\nrecent years for the introduction of air taxi services in near future across\nmetropolitan cities, our research focuses on one of the most important\nconsideration for such services, i.e., infrastructure planning (also known as\nskyports). We consider design of skyport locations for air taxis accessing\nairports, where we present the skyport location problem as a modified\nsingle-allocation p-hub median location problem integrating choice-constrained\nuser mode choice behavior into the decision process. Our approach focuses on\ntwo alternative objectives i.e., maximizing air taxi ridership and maximizing\nair taxi revenue. The proposed models in the study incorporate trade-offs\nbetween trip length and trip cost based on mode choice behavior of travelers to\ndetermine optimal choices of skyports in an urban city. We examine the\nsensitivity of skyport locations based on two objectives, three air taxi\npricing strategies, and varying transfer times at skyports. A case study of New\nYork City is conducted considering a network of 149 taxi zones and 3 airports\nwith over 20 million for-hire-vehicles trip data to the airports to discuss\ninsights around the choice of skyport locations in the city, and demand\nallocation to different skyports under various parameter settings. Results\nsuggest that a minimum of 9 skyports located between Manhattan, Queens and\nBrooklyn can adequately accommodate the airport access travel needs and are\nsufficiently stable against transfer time increases. Findings from this study\ncan help air taxi providers strategize infrastructure design options and\ninvestment decisions based on skyport location choices.Comment: 25 page",
+    "year": 2021,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Chow, Joseph Y. J."
+      },
+      {
+        "name": "Rath, Srushti"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1904.01497"
+    },
+    "source_query": "large language models operations research optimization problem formulation",
+    "source": "CORE",
+    "_key": "air taxi skyport location problem for airport access",
+    "_score": 0.0
+  },
+  {
+    "title": "Special Session on Industry 4.0",
+    "abstract": "No abstract available",
+    "year": 2015,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Li, Yun"
+      },
+      {
+        "name": "Yu, Hongnian"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/42366589.pdf"
+    },
+    "source_query": "large language models supply chain logistics optimization",
+    "source": "CORE",
+    "_key": "special session on industry 4 0",
+    "_score": 0.0
+  },
+  {
+    "title": "Optimal Transport Theory for Cell Association in UAV-Enabled Cellular\n  Networks",
+    "abstract": "In this paper, a novel framework for delay-optimal cell association in\nunmanned aerial vehicle (UAV)-enabled cellular networks is proposed. In\nparticular, to minimize the average network delay under any arbitrary spatial\ndistribution of the ground users, the optimal cell partitions of UAVs and\nterrestrial base stations (BSs) are determined. To this end, using the powerful\nmathematical tools of optimal transport theory, the existence of the solution\nto the optimal cell association problem is proved and the solution space is\ncompletely characterized. The analytical and simulation results show that the\nproposed approach yields substantial improvements of the average network delay.Comment: Accepted in IEEE Communications Letter",
+    "year": 2017,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1109/lcomm.2017.2710306"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Bennis, Mehdi"
+      },
+      {
+        "name": "Debbah, Merouane"
+      },
+      {
+        "name": "Mozaffari, Mohammad"
+      },
+      {
+        "name": "Saad, Walid"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/628848058.pdf"
+    },
+    "source_query": "AI assisted mathematical optimization model formulation",
+    "source": "CORE",
+    "_key": "10.1109/lcomm.2017.2710306",
+    "_score": 0.0
+  },
+  {
+    "title": "A Survey on Array Storage, Query Languages, and Systems",
+    "abstract": "Since scientific investigation is one of the most important providers of\nmassive amounts of ordered data, there is a renewed interest in array data\nprocessing in the context of Big Data. To the best of our knowledge, a unified\nresource that summarizes and analyzes array processing research over its long\nexistence is currently missing. In this survey, we provide a guide for past,\npresent, and future research in array processing. The survey is organized along\nthree main topics. Array storage discusses all the aspects related to array\npartitioning into chunks. The identification of a reduced set of array\noperators to form the foundation for an array query language is analyzed across\nmultiple such proposals. Lastly, we survey real systems for array processing.\nThe result is a thorough survey on array data storage and processing that\nshould be consulted by anyone interested in this research topic, independent of\nexperience level. The survey is not complete though. We greatly appreciate\npointers towards any work we might have forgotten to mention.Comment: 44 page",
+    "year": 2013,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Cheng, Yu"
+      },
+      {
+        "name": "Rusu, Florin"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/1302.0103"
+    },
+    "source_query": "natural language processing optimization problem formulation operations research",
+    "source": "CORE",
+    "_key": "a survey on array storage query languages and systems",
+    "_score": 0.0
+  },
+  {
+    "title": "A hybrid and integrated approach to evaluate and prevent disasters",
+    "abstract": null,
+    "year": 2014,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1057/jors.2013.59"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Ishizaka, Alessio"
+      },
+      {
+        "name": "Labib, Ashraf"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/29586165.pdf"
+    },
+    "source_query": "problem structuring methods decision support logistics optimization",
+    "source": "CORE",
+    "_key": "10.1057/jors.2013.59",
+    "_score": 0.0
+  },
+  {
+    "title": "Operationalizing the circular city model for naples' city-port: A hybrid development strategy",
+    "abstract": "The city-port context involves a decisive reality for the economic development of territories and nations, capable of significantly influencing the conditions of well-being and quality of life, and of making the Circular City Model (CCM) operational, preserving and enhancing seas and marine resources in a sustainable way. This can be achieved through the construction of appropriate production and consumption models, with attention to relations with the urban and territorial system. This paper presents an adaptive decision-making process for Naples (Italy) commercial port's development strategies, aimed at re-establishing a sustainable city-port relationship and making Circular Economy (CE) principles operative. The approach has aimed at implementing a CCM by operationalizing European recommendations provided within both the Sustainable Development Goals (SDGs) framework-specifically focusing on goals 9, 11 and 12-and the Maritime Spatial Planning European Directive 2014/89, to face conflicts about the overlapping areas of the city-port through multidimensional evaluations' principles and tools. In this perspective, a four-step methodological framework has been structured applying a place-based approach with mixed evaluation methods, eliciting soft and hard knowledge domains, which have been expressed and assessed by a core set of Sustainability Indicators (SI), linked to SDGs. The contribution outcomes have been centred on the assessment of three design alternatives for the East Naples port and the development of a hybrid regeneration scenario consistent with CE and sustainability principles. The structured decision-making process has allowed us to test how an adaptive approach can expand the knowledge base underpinning policy design and decisions to achieve better outcomes and cultivate a broad civic and technical engagement, that can enhance the legitimacy and transparency of policies",
+    "year": 2020,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.3390/su12072927"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Cerreta, M."
+      },
+      {
+        "name": "di Girasole, E. G."
+      },
+      {
+        "name": "Poli, G."
+      },
+      {
+        "name": "Regalbuto, S."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/323187937.pdf"
+    },
+    "source_query": "problem structuring methods decision support logistics optimization",
+    "source": "CORE",
+    "_key": "10.3390/su12072927",
+    "_score": 0.0
+  },
+  {
+    "title": "MACS: Multi-agent COTR system for Defense Contracting",
+    "abstract": "The field of intelligent multi-agent systems has expanded rapidly in the recent past. Multi-agent architectures and systems are being investigated and continue to develop. To date, little has been accomplished in applying multi-agent systems to the defense acquisition domain. This paper describes the design, development, and related considerations of a multi-agent system in the area of procurement and contracting for the defense acquisition community",
+    "year": 2000,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Adya, Monica"
+      },
+      {
+        "name": "Baek, S."
+      },
+      {
+        "name": "Buchwalter, J."
+      },
+      {
+        "name": "Imhoff, M."
+      },
+      {
+        "name": "Liebowitz, J."
+      },
+      {
+        "name": "Rubenstein-Montano, B."
+      },
+      {
+        "name": "Suen, C."
+      },
+      {
+        "name": "Yoon, Victoria Y."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/213057519.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "macs multi agent cotr system for defense contracting",
+    "_score": 0.0
+  },
+  {
+    "title": "Options for Economic Growth in Mali through the Application of Science and Technology to Agriculture",
+    "abstract": "Prepared For The United States Agency for International Development Initiative To End Hunger In Africafood security, food policy, Mali science and technology research, research and extension, International Development, Q18,",
+    "year": null,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Carpenter, Janet"
+      },
+      {
+        "name": "Diall, Oumar"
+      },
+      {
+        "name": "Easterling, Tom"
+      },
+      {
+        "name": "Kelly, Valerie A."
+      },
+      {
+        "name": "Kone, Moctar"
+      },
+      {
+        "name": "McCornick, Peter G."
+      },
+      {
+        "name": "McGahuey, Mike"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/6614912.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "options for economic growth in mali through the application of science and technology to agriculture",
+    "_score": 0.0
+  },
+  {
+    "title": "Effects of a Trust Mechanism on Complex Adaptive Supply Networks: An Agent-Based Social Simulation Study",
+    "abstract": "This paper models a supply network as a complex adaptive system (CAS), in which firms or agents interact with one another and adapt themselves. And it applies agent-based social simulation (ABSS), a research method of simulating social systems under the CAS paradigm, to observe emergent outcomes. The main purposes of this paper are to consider a social factor, trust, in modeling the agents\\' behavioral decision-makings and, through the simulation studies, to examine the intermediate self-organizing processes and the resulting macro-level system behaviors. The simulations results reveal symmetrical trust levels between two trading agents, based on which the degree of trust relationship in each pair of trading agents as well as the resulting collaboration patterns in the entire supply network emerge. Also, it is shown that agents\\' decision-making behavior based on the trust relationship can contribute to the reduction in the variability of inventory levels. This result can be explained by the fact that mutual trust relationship based on the past experiences of trading diminishes an agent\\'s uncertainties about the trustworthiness of its trading partners and thereby tends to stabilize its inventory levels.Complex Adaptive System, Agent-Based Social Simulation, Supply Network, Trust",
+    "year": null,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Whan-Seon Kim"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/6251848.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "effects of a trust mechanism on complex adaptive supply networks an agent based social simulation study",
+    "_score": 0.0
+  },
+  {
+    "title": "AI and OR in management of operations: history and trends",
+    "abstract": "The last decade has seen a considerable growth in the use of Artificial Intelligence (AI) for operations management with the aim of finding solutions to problems that are increasing in complexity and scale. This paper begins by setting the context for the survey through a historical perspective of OR and AI. An extensive survey of applications of AI techniques for operations management, covering a total of over 1200 papers published from 1995 to 2004 is then presented. The survey utilizes Elsevier's ScienceDirect database as a source. Hence, the survey may not cover all the relevant journals but includes a sufficiently wide range of publications to make it representative of the research in the field. The papers are categorized into four areas of operations management: (a) design, (b) scheduling, (c) process planning and control and (d) quality, maintenance and fault diagnosis. Each of the four areas is categorized in terms of the AI techniques used: genetic algorithms, case-based reasoning, knowledge-based systems, fuzzy logic and hybrid techniques. The trends over the last decade are identified, discussed with respect to expected trends and directions for future work suggested",
+    "year": 2007,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1057/palgrave.jors.2602132"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Kobbacy, KAH"
+      },
+      {
+        "name": "Rasmy, MH"
+      },
+      {
+        "name": "Vadera, S"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/104325.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "10.1057/palgrave.jors.2602132",
+    "_score": 0.0
+  },
+  {
+    "title": "CSR business models and change trajectories in the retail industry; A Dynamic Benchmark Exercise (1995-2007)",
+    "abstract": "Sustainability or Corporate Social Responsibility (CSR) is an important societal issue that also gains momentum in the food retail industry. Companies apply different strategies towards sustainability and can alter these over time. This report presents the findings of RSM research on (changes in) business models of CSR strategies within three leading Dutch food retailers as well as three leading European food retailers. The research reveals the level of internal and external alignment as important factors to understand the design and the development of the companies' CSR business model",
+    "year": null,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Bleijenbergh, M."
+      },
+      {
+        "name": "Danse, M.G."
+      },
+      {
+        "name": "Torppe, M."
+      },
+      {
+        "name": "Tulder, R., van"
+      },
+      {
+        "name": "Wiersinga, R.C."
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/pdf/29249755.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "csr business models and change trajectories in the retail industry a dynamic benchmark exercise 1995 2007",
+    "_score": 0.0
+  },
+  {
+    "title": "Sustainable Development Report: Blockchain, the Web3 & the SDGs",
+    "abstract": "This is an output paper of the applied research that was conducted between July 2018 - October 2019 funded by the Austrian Development Agency (ADA) and conducted by the Research Institute for Cryptoeconomics at the Vienna University of Economics and Business and RCE Vienna (Regional Centre of Expertise on Education for Sustainable Development).Series: Working Paper Series / Institute for Cryptoeconomics / Interdisciplinary Researc",
+    "year": 2019,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Novakovic, Tatjana"
+      },
+      {
+        "name": "Rammel, Christian"
+      },
+      {
+        "name": "Voshmgir, Shermin"
+      },
+      {
+        "name": "Wildenberg, Martin"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/286777594.pdf"
+    },
+    "source_query": "human AI collaboration decision support supply chain management",
+    "source": "CORE",
+    "_key": "sustainable development report blockchain the web3 the sdgs",
+    "_score": 0.0
+  },
+  {
+    "title": "Enhancing Workflow with a Semantic Description of Scientific Intent",
+    "abstract": "Peer reviewedPreprin",
+    "year": 2011,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1016/j.websem.2011.05.001"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Edwards, Peter"
+      },
+      {
+        "name": "Gotts, Nick"
+      },
+      {
+        "name": "Pignotti, Edoardo"
+      },
+      {
+        "name": "Polhill, Gary"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/177337.pdf"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "10.1016/j.websem.2011.05.001",
+    "_score": 0.0
+  },
+  {
+    "title": "Coordination approaches and systems - part I : a strategic perspective",
+    "abstract": "This is the first part of a two-part paper presenting a fundamental review and summary of research of design coordination and cooperation technologies. The theme of this review is aimed at the research conducted within the decision management aspect of design coordination. The focus is therefore on the strategies involved in making decisions and how these strategies are used to satisfy design requirements. The paper reviews research within collaborative and coordinated design, project and workflow management, and, task and organization models. The research reviewed has attempted to identify fundamental coordination mechanisms from different domains, however it is concluded that domain independent mechanisms need to be augmented with domain specific mechanisms to facilitate coordination. Part II is a review of design coordination from an operational perspective",
+    "year": 2000,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1007/s001630050023"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Coates, Graham"
+      },
+      {
+        "name": "Duffy, Alex H. B."
+      },
+      {
+        "name": "Hills, Bill"
+      },
+      {
+        "name": "Whitfield, Robert Ian"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/9019019.pdf"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "10.1007/s001630050023",
+    "_score": 0.0
+  },
+  {
+    "title": "A Taxonomy of Workflow Management Systems for Grid Computing",
+    "abstract": "With the advent of Grid and application technologies, scientists and\nengineers are building more and more complex applications to manage and process\nlarge data sets, and execute scientific experiments on distributed resources.\nSuch application scenarios require means for composing and executing complex\nworkflows. Therefore, many efforts have been made towards the development of\nworkflow management systems for Grid computing. In this paper, we propose a\ntaxonomy that characterizes and classifies various approaches for building and\nexecuting workflows on Grids. We also survey several representative Grid\nworkflow systems developed by various projects world-wide to demonstrate the\ncomprehensiveness of the taxonomy. The taxonomy not only highlights the design\nand engineering similarities and differences of state-of-the-art in Grid\nworkflow systems, but also identifies the areas that need further research.Comment: 29 pages, 15 figure",
+    "year": 2005,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1007/s10723-005-9010-8"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "A. Geppert"
+      },
+      {
+        "name": "D. Fernández-Baca"
+      },
+      {
+        "name": "D. Gelernter"
+      },
+      {
+        "name": "D. Thain"
+      },
+      {
+        "name": "E. Deelman"
+      },
+      {
+        "name": "G. Zheng"
+      },
+      {
+        "name": "I. Taylor"
+      },
+      {
+        "name": "Jia Yu"
+      },
+      {
+        "name": "M. Addis"
+      },
+      {
+        "name": "R. Wolski"
+      },
+      {
+        "name": "Rajkumar Buyya"
+      },
+      {
+        "name": "W.M.P. Aalst van der"
+      },
+      {
+        "name": "W.M.P. Aalst van der"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://arxiv.org/abs/cs/0503025"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "10.1007/s10723-005-9010-8",
+    "_score": 0.0
+  },
+  {
+    "title": "Tradition and change in the Southern cone of America. Limits and potentialities of multi-agent systems as methodological tools for the study of the social impacts of territorial dynamics",
+    "abstract": "The territorial transformations that have taken place during the last decade in the South American temperate grasslands - the \"Pampas\" - have been accompanied by dramatic social changes. As large-scale agribusiness replaces extensive livestock production, agricultural investment fund managers -IFM- break as the newest actors of the reshaped landscape. Unable to reproduce their traditional livelihoods under the growing economic and environmental pressures, many family farmers are selling or renting their properties to IFM while migrating to the cities. Uruguay is a privileged laboratory for the study of this coupled socio-territorial dynamics. As in Argentina and Brazil, Uruguayan Pampas' are being agriculturized2 by large-scale soybean mono cropping. This process is being accelerated by the emergence of the new markets of China and India, the two main soybean importers of the Pampean countries. Bounded by tradition and by values that go beyond profit making, some family livestock farmers strive to avoid rural exodus and to adapt to these new scenarios while maintaining their livelihoods, strongly identified with extensive cattle grazing. Small to medium-sized farmers usually choose between two adaptation strategies: i) to continue with cattle grazing through, a) technological innovation and intensification and/or b) cost reduction; or ii) to abandon livestock production and convert to soybean production. Any of these strategies are threatened, however, by the strong increase of land prices, generated not only by soybean mono cropping (dubbed the \"white gold\" of South America), but also by major forestry and pulp mill developments. This paper will not focus on the environmental impact of soybean mono cropping in the Pampa biome, an issue which is still highly disputed. It will, instead, offer an interdisciplinar, systemic approach to the social consequences of the land competition between modern, large-scale agriculture and traditional, low input livestock production. How do land concentration and large-scale mono cropping affect the social sustainability of extensive livestock farming systems operating in usually small production units? Is it possible to model - and simulate - simultaneously the dynamics of physical-biological systems interacting with social systems? This article aims at evaluating the interest, contributions and limits of multiple-agent-based simulations or Multi-Agent Systems (MAS) as a methodology to answer to these questions. The underlying hypothesis is that MAS contribute to improve the understanding of the decision-making processes of family farmers, who must decide between sticking to traditional cattle-breeding or investing in the higher and shorter-term profitability of soybean production. However, MAS models must be enhanced through the inclusion of socio (and even psychological) variables allowing to better understand the complex dynamics of land - use related decision making processes. The article's structure has five sections: i) brief introduction of MAS, ii) application of MAS simulations (DinamicaParcelaria) to the specific case of territorial transformations resulting from the dialectic monocropping / livestock family farming in the Uruguayan Pampas, iii) application of MAS simulations (Arapey) to a case study in Northern Uruguay, where the traditional extensive livestock production system has not changed in the last two centuries, remaining as the sole production system iv) crosschecking of the above-mentioned preliminary results with the outcomes of participatory meetings with livestock producers in Uruguay. (Résumé d'auteur",
+    "year": 2008,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Bommel, Pierre"
+      },
+      {
+        "name": "Litre, Gabriela"
+      },
+      {
+        "name": "Morales, Hermes"
+      },
+      {
+        "name": "Tourrand, Jean-François"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "http://agritrop.cirad.fr/546808/1/document_546808.pdf"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "tradition and change in the southern cone of america limits and potentialities of multi agent systems as methodological tools for the study of the social impacts of territorial dynamics",
+    "_score": 0.0
+  },
+  {
+    "title": "Cost reduction using process analysis in company PEGRES obuv s.r.o.",
+    "abstract": "Firma PEGRES obuv s.r.o. se již delší dobu potýká se stagnací v oblasti plánování a řízení výroby. Některé podnikové procesy jsou nyní značně zastaralé a v aktuálních podmínkách již neefektivní. Cíl práce je snížení nákladů s využitím procesní analýzy. Pro dosažení tohoto cíle bude provedena analýza současného stavu zastaralých procesů a budou popsány vybrané metody řízení výroby, které jsou svou povahou relevantní pro výrobu obuvi. Výstupem práce je sada doporučení a návrhů na změny v existujících procesech. Vybrané návrhy budou v prostředí firmy implementovány a práce zahrne zhodnocení výsledků po zavedení těchto změn.Company PEGRES obuv s.r.o. has been long time struggling with stagnation in production planning and control. Some of the internal processes are now obsolete and in current conditions no longer effective. The goal of the paper is to reduce the costs using process analysis. To achieve this goal, analysis of the current state of outdated processes will be performed, followed by description of selected methods of production management, which by their nature are relevant to the production of the shoes. Output of the work is a set of recommendations and proposals for changes to existing processes. Selected proposals will be implemented in the company and paper will include evaluation of results after the implementation of these changes.",
+    "year": 2012,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": null
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Gřeš, Jan"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/30301951.pdf"
+    },
+    "source_query": "large language model decision support systems management",
+    "source": "CORE",
+    "_key": "cost reduction using process analysis in company pegres obuv s r o",
+    "_score": 0.0
+  },
+  {
+    "title": "Essential Micro-foundations for Contemporary Business Operations: Top Management Tangible Competencies, Relationship-based Business Networks and Environmental Sustainability",
+    "abstract": "Although various studies have emphasized linkages between firm competencies, networks and sustainability at organizational level, the links between top management tangible competencies (e.g., contemporary relevant quantitative-focused education such as big data analytics and data-driven applications linked with the internet of things, relevant experience and analytical business applications), relationship-based business networks (RBNs) and environmental sustainability have not been well established at micro-level, and there is a literature gap in terms of investigating these relationships. This study examines these links based on the unique data collected from 175 top management representatives (chief executive officers and managing directors) working in food import and export firms headquartered in the UK and New Zealand. Our results from structural equation modelling indicate that top management tangible competencies (TMTCs) are the key determinants for building RBNs, mediating the correlation between TMTCs and environmental sustainability. Directly, the competencies also play a vital role towards environmental practices. The findings further depict that relationship-oriented firms perform better compared to those which focus less on such networks. Consequently, our findings provide a deeper understanding of the micro-foundations of environmental sustainability based on TMTCs rooted in the resource-based view and RBNs entrenched in the social network theory. We discuss the theoretical and practical implications of our findings, and we provide suggestions for future research",
+    "year": 2017,
+    "citationCount": 0,
+    "externalIds": {
+      "DOI": "10.1111/1467-8551.12233"
+    },
+    "venue": null,
+    "authors": [
+      {
+        "name": "Aalbers"
+      },
+      {
+        "name": "Abdallah"
+      },
+      {
+        "name": "Abell"
+      },
+      {
+        "name": "Akhtar"
+      },
+      {
+        "name": "Anderson"
+      },
+      {
+        "name": "Antonakis"
+      },
+      {
+        "name": "Antonakis"
+      },
+      {
+        "name": "Antonakis"
+      },
+      {
+        "name": "Aragon-Correa"
+      },
+      {
+        "name": "Bantel"
+      },
+      {
+        "name": "Barney"
+      },
+      {
+        "name": "Barney"
+      },
+      {
+        "name": "Baron"
+      },
+      {
+        "name": "Barton"
+      },
+      {
+        "name": "Batt"
+      },
+      {
+        "name": "Benito-Hernández"
+      },
+      {
+        "name": "Benn"
+      },
+      {
+        "name": "Bennis"
+      },
+      {
+        "name": "Borgatti"
+      },
+      {
+        "name": "Bowen"
+      },
+      {
+        "name": "Brass"
+      },
+      {
+        "name": "Brown"
+      },
+      {
+        "name": "Burt"
+      },
+      {
+        "name": "Canales"
+      },
+      {
+        "name": "Casper"
+      },
+      {
+        "name": "Chen"
+      },
+      {
+        "name": "Chen"
+      },
+      {
+        "name": "Chen"
+      },
+      {
+        "name": "Chiang"
+      },
+      {
+        "name": "Chin"
+      },
+      {
+        "name": "Coff"
+      },
+      {
+        "name": "Coleman"
+      },
+      {
+        "name": "Collins"
+      },
+      {
+        "name": "Cycyota"
+      },
+      {
+        "name": "DeShon"
+      },
+      {
+        "name": "Doh"
+      },
+      {
+        "name": "Draulans"
+      },
+      {
+        "name": "Eisenhardt"
+      },
+      {
+        "name": "Epstein"
+      },
+      {
+        "name": "Evans"
+      },
+      {
+        "name": "Fassin"
+      },
+      {
+        "name": "Felin"
+      },
+      {
+        "name": "Felin"
+      },
+      {
+        "name": "Felin"
+      },
+      {
+        "name": "Felin"
+      },
+      {
+        "name": "Ferlie"
+      },
+      {
+        "name": "Fisher"
+      },
+      {
+        "name": "Foss"
+      },
+      {
+        "name": "Foss"
+      },
+      {
+        "name": "Frandsen"
+      },
+      {
+        "name": "Frone"
+      },
+      {
+        "name": "Frynas"
+      },
+      {
+        "name": "Galaskiewicz"
+      },
+      {
+        "name": "Garbuio"
+      },
+      {
+        "name": "Gavetti"
+      },
+      {
+        "name": "Giunipero"
+      },
+      {
+        "name": "Godos-Díez"
+      },
+      {
+        "name": "Gond"
+      },
+      {
+        "name": "González-Benito"
+      },
+      {
+        "name": "Granovetter"
+      },
+      {
+        "name": "Grossman"
+      },
+      {
+        "name": "Hambrick"
+      },
+      {
+        "name": "Hambrick"
+      },
+      {
+        "name": "Hamilton"
+      },
+      {
+        "name": "Hansen"
+      },
+      {
+        "name": "Hart"
+      },
+      {
+        "name": "Helfat"
+      },
+      {
+        "name": "Helfat"
+      },
+      {
+        "name": "Hillenbrand"
+      },
+      {
+        "name": "Hippel"
+      },
+      {
+        "name": "Husted"
+      },
+      {
+        "name": "Inkpen"
+      },
+      {
+        "name": "Kim"
+      },
+      {
+        "name": "Kline"
+      },
+      {
+        "name": "Kor"
+      },
+      {
+        "name": "Kor"
+      },
+      {
+        "name": "Kraaijenbrink"
+      },
+      {
+        "name": "Kyrgidou"
+      },
+      {
+        "name": "Lado"
+      },
+      {
+        "name": "LaValle"
+      },
+      {
+        "name": "Ledgard"
+      },
+      {
+        "name": "Levin"
+      },
+      {
+        "name": "Li"
+      },
+      {
+        "name": "Lindell"
+      },
+      {
+        "name": "Litz"
+      },
+      {
+        "name": "Lourenço"
+      },
+      {
+        "name": "Lozano"
+      },
+      {
+        "name": "Maak"
+      },
+      {
+        "name": "Malhotra"
+      },
+      {
+        "name": "McAfee"
+      },
+      {
+        "name": "McWilliams"
+      },
+      {
+        "name": "Mehta"
+      },
+      {
+        "name": "Mellahi"
+      },
+      {
+        "name": "Mellahi"
+      },
+      {
+        "name": "Miemczyk"
+      },
+      {
+        "name": "Morgeson"
+      },
+      {
+        "name": "Nyberg"
+      },
+      {
+        "name": "Orlitzky"
+      },
+      {
+        "name": "Patnayakuni"
+      },
+      {
+        "name": "Podsakoff"
+      },
+      {
+        "name": "Powell"
+      },
+      {
+        "name": "Preacher"
+      },
+      {
+        "name": "Rao"
+      },
+      {
+        "name": "Rao"
+      },
+      {
+        "name": "Rass"
+      },
+      {
+        "name": "Renwick"
+      },
+      {
+        "name": "Robertson"
+      },
+      {
+        "name": "Roome"
+      },
+      {
+        "name": "Rueda-Manzanares"
+      },
+      {
+        "name": "Russo"
+      },
+      {
+        "name": "Schewe"
+      },
+      {
+        "name": "Schoenherr"
+      },
+      {
+        "name": "Schoenherr"
+      },
+      {
+        "name": "Sekaran"
+      },
+      {
+        "name": "Sheremata"
+      },
+      {
+        "name": "Siegel"
+      },
+      {
+        "name": "Simpson"
+      },
+      {
+        "name": "Sobel"
+      },
+      {
+        "name": "Sol"
+      },
+      {
+        "name": "Spriggs"
+      },
+      {
+        "name": "Stea"
+      },
+      {
+        "name": "Swan"
+      },
+      {
+        "name": "Tan"
+      },
+      {
+        "name": "Teece"
+      },
+      {
+        "name": "Teece"
+      },
+      {
+        "name": "Tortoriello"
+      },
+      {
+        "name": "Tortoriello"
+      },
+      {
+        "name": "Tourangeau"
+      },
+      {
+        "name": "Tsai"
+      },
+      {
+        "name": "Uzzi"
+      },
+      {
+        "name": "Vurro"
+      },
+      {
+        "name": "Waldman"
+      },
+      {
+        "name": "Waldman"
+      },
+      {
+        "name": "Waller"
+      },
+      {
+        "name": "Wernerfelt"
+      },
+      {
+        "name": "Wiersema"
+      },
+      {
+        "name": "Wincent"
+      },
+      {
+        "name": "Winter"
+      },
+      {
+        "name": "Yli-Renko"
+      },
+      {
+        "name": "Yu"
+      },
+      {
+        "name": "Zaheer"
+      }
+    ],
+    "openAccessPdf": {
+      "url": "https://core.ac.uk/download/160752050.pdf"
+    },
+    "source_query": "data driven logistics optimization unstructured data",
+    "source": "CORE",
+    "_key": "10.1111/1467-8551.12233",
+    "_score": 0.0
+  }
+]

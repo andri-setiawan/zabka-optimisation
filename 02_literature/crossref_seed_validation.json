@@ -1,0 +1,182 @@
+[
+  {
+    "query": "Problem structuring methods in action",
+    "doi": "10.1016/s0377-2217(03)00056-0",
+    "title": "Problem structuring methods in action",
+    "year": 2004,
+    "venue": "European Journal of Operational Research",
+    "citations": 562,
+    "type": "journal-article"
+  },
+  {
+    "query": "Rational analysis for a problematic world revisited",
+    "doi": "10.1016/0024-6301(90)90188-a",
+    "title": "Rational analysis for a problematic world",
+    "year": 1990,
+    "venue": "Long Range Planning",
+    "citations": 1,
+    "type": "journal-article"
+  },
+  {
+    "query": "Soft systems methodology: a thirty year retrospective",
+    "doi": "10.1002/1099-1743(200011)17:1+<::aid-sres374>3.0.co;2-o",
+    "title": "Soft systems methodology: a thirty year retrospective",
+    "year": 2000,
+    "venue": "Systems Research and Behavioral Science",
+    "citations": 597,
+    "type": "journal-article"
+  },
+  {
+    "query": "Creating cognitive maps from interview transcripts",
+    "doi": "10.1177/15257401221087589",
+    "title": "Creating Faithful Transcripts in Multilingual/Bimodal Interview Contexts",
+    "year": 2023,
+    "venue": "Communication Disorders Quarterly",
+    "citations": 1,
+    "type": "journal-article"
+  },
+  {
+    "query": "Helping business managers discover their mental models",
+    "doi": "10.1111/j.1948-7169.2012.00165.x",
+    "title": "Helping Business Managers Discover Their Appetite for Design Thinking",
+    "year": 2012,
+    "venue": "Design Management Review",
+    "citations": 11,
+    "type": "journal-article"
+  },
+  {
+    "query": "An introduction to model management",
+    "doi": "10.1016/b978-0-12-816649-9.00009-0",
+    "title": "Introduction to model management and analytics",
+    "year": 2020,
+    "venue": "Model Management and Analytics for Large Scale Systems",
+    "citations": 5,
+    "type": "book-chapter"
+  },
+  {
+    "query": "Structured modeling: A modeling technology for the management scientist",
+    "doi": "10.1016/j.ejor.2004.03.037",
+    "title": "A structured modeling technology",
+    "year": 2005,
+    "venue": "European Journal of Operational Research",
+    "citations": 15,
+    "type": "journal-article"
+  },
+  {
+    "query": "A framework for the design of group decision support systems",
+    "doi": "10.1016/0378-7206(87)90022-x",
+    "title": "An integrated framework for group decision support systems design",
+    "year": 1987,
+    "venue": "Information &amp; Management",
+    "citations": 62,
+    "type": "journal-article"
+  },
+  {
+    "query": "Decision support systems for logistics and supply chain management",
+    "doi": "10.1016/j.dss.2011.11.012",
+    "title": "Decision support systems for logistics and supply chain management",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "citations": 19,
+    "type": "journal-article"
+  },
+  {
+    "query": "A review of modeling approaches for sustainable supply chain management",
+    "doi": "10.1016/j.dss.2012.05.053",
+    "title": "A review of modeling approaches for sustainable supply chain management",
+    "year": 2013,
+    "venue": "Decision Support Systems",
+    "citations": 795,
+    "type": "journal-article"
+  },
+  {
+    "query": "Artificial intelligence and operations research in supply chain management",
+    "doi": "10.1080/00207543.2023.2232050",
+    "title": "Artificial intelligence in supply chain and operations management: a multiple case study research",
+    "year": 2024,
+    "venue": "International Journal of Production Research",
+    "citations": 162,
+    "type": "journal-article"
+  },
+  {
+    "query": "Large language models for supply chain management",
+    "doi": "10.1007/978-3-032-07054-8_7",
+    "title": "Large Language Models for Supply Chain Decisions",
+    "year": 2026,
+    "venue": "Springer Series in Supply Chain Management",
+    "citations": 4,
+    "type": "book-chapter"
+  },
+  {
+    "query": "Large language models for automated data science",
+    "doi": "10.1109/icnc-fskd67701.2025.11198037",
+    "title": "A Review of Automated Data Science Based on Large Language Models",
+    "year": 2025,
+    "venue": "2025 21st International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD)",
+    "citations": 1,
+    "type": "proceedings-article"
+  },
+  {
+    "query": "Capabilities of GPT-4 on Medical Challenge Problems",
+    "doi": "10.1117/12.3086794",
+    "title": "Capabilities of GPT‑5 on multimodal medical reasoning",
+    "year": 2026,
+    "venue": "Medical Imaging 2026: Imaging Informatics",
+    "citations": 4,
+    "type": "proceedings-article"
+  },
+  {
+    "query": "Sparks of Artificial General Intelligence",
+    "doi": "10.1007/978-3-642-35506-6",
+    "title": "Artificial General Intelligence",
+    "year": 2012,
+    "venue": "Lecture Notes in Computer Science",
+    "citations": 4,
+    "type": "book"
+  },
+  {
+    "query": "Language Models are Few-Shot Learners",
+    "doi": "10.18653/v1/2021.mrl-1.1",
+    "title": "Language Models are Few-shot Multilingual Learners",
+    "year": 2021,
+    "venue": "Proceedings of the 1st Workshop on Multilingual Representation Learning",
+    "citations": 55,
+    "type": "proceedings-article"
+  },
+  {
+    "query": "Chain-of-thought prompting elicits reasoning in large language models",
+    "doi": "10.52202/068431-1800",
+    "title": "Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "year": 2022,
+    "venue": "Advances in Neural Information Processing Systems 35",
+    "citations": 645,
+    "type": "proceedings-article"
+  },
+  {
+    "query": "ReAct: Synergizing reasoning and acting in language models",
+    "doi": "10.1145/3696410.3714720",
+    "title": "Synergizing Large Language Models and Knowledge-Based Reasoning for Interpretable Feature Engineering",
+    "year": 2025,
+    "venue": "Proceedings of the ACM on Web Conference 2025",
+    "citations": 2,
+    "type": "proceedings-article"
+  },
+  {
+    "query": "Self-Refine: Iterative Refinement with Self-Feedback",
+    "doi": "10.52202/075280-2019",
+    "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+    "year": 2023,
+    "venue": "Advances in Neural Information Processing Systems 36",
+    "citations": 57,
+    "type": "proceedings-article"
+  },
+  {
+    "query": "A Survey of Large Language Models",
+    "doi": "10.36227/techrxiv.175502932.20939890/v2",
+    "title": "Diffusion-based Large Language Models Survey",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content"
+  }
+]

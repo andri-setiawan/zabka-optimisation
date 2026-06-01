@@ -1,0 +1,1422 @@
+[
+  {
+    "doi": "10.1016/j.dss.2010.11.020",
+    "title": "A multi-objective optimization for green supply chain network design",
+    "year": 2011,
+    "venue": "Decision Support Systems",
+    "citations": 491,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.1016/j.dss.2011.10.024",
+    "title": "Network optimization in supply chain: A KBGA approach",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "citations": 20,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.1016/j.dss.2011.11.012",
+    "title": "Decision support systems for logistics and supply chain management",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "citations": 19,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.2118/221022-ms",
+    "title": "Leveraging Large Language Models for Cost Management and Supply Chain Optimization",
+    "year": 2024,
+    "venue": "SPE Annual Technical Conference and Exhibition",
+    "citations": 5,
+    "type": "proceedings-article",
+    "source_query": "title:Large language models for supply chain management",
+    "rel": 3
+  },
+  {
+    "doi": "10.21622/ace.2022.02.2.070",
+    "title": "Supply chain management and optimization in transportation logistics",
+    "year": 2022,
+    "venue": "Advances in Computing and Engineering",
+    "citations": 3,
+    "type": "journal-article",
+    "source_query": "title:A review of optimization models for logistics and supply chain management",
+    "rel": 3
+  },
+  {
+    "doi": "10.1007/978-3-319-42421-7_9",
+    "title": "Multi-echelon Supply Chain Optimization: Methods and Application Examples",
+    "year": 2017,
+    "venue": "Lecture Notes in Logistics",
+    "citations": 2,
+    "type": "book-chapter",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.54097/9wszed25",
+    "title": "Supply Chain Optimization Based on Large Language Models (LLMs): Global Supply Chain Risk Assessment",
+    "year": 2025,
+    "venue": "Journal of Computer Science and Artificial Intelligence",
+    "citations": 1,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.1109/icac65379.2025.11196207",
+    "title": "Harnessing the Power of Large Language Model for Natural Language-Driven Task Scheduling Optimization",
+    "year": 2025,
+    "venue": "2025 30th International Conference on Automation and Computing (ICAC)",
+    "citations": 1,
+    "type": "proceedings-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.5121/oraj.2025.12201",
+    "title": "Benchmarking Large Language Models on Network Optimization",
+    "year": 2025,
+    "venue": "Operations Research and Applications : An International Journal",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.1007/s43069-025-00564-4",
+    "title": "Integrating Large Language Models and CNN-LSTM for Enhanced Portfolio Optimization",
+    "year": 2025,
+    "venue": "Operations Research Forum",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.36227/techrxiv.174612312.28926018/v2",
+    "title": "Mathematical Framework for Large Language Models in Multi-Agent Systems for Interaction and Optimization",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.36227/techrxiv.174612312.28926018/v1",
+    "title": "Mathematical Framework for Large Language Models in Multi-Agent Systems for Interaction and Optimization",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.1109/ijcnn64981.2025.11227254",
+    "title": "RFPO: Enhancing Mathematical Reasoning of Large Language Models with Fine-Grained Preference Optimization",
+    "year": 2025,
+    "venue": "2025 International Joint Conference on Neural Networks (IJCNN)",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.1109/bigdata66926.2025.11401661",
+    "title": "Towards Automated Recipe Reconstruction: Optimization of Dietary Data Collection using Information Retrieval, Large Language Models and Mathematical Optimization",
+    "year": 2025,
+    "venue": "2025 IEEE International Conference on Big Data (BigData)",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.2139/ssrn.5316671",
+    "title": "Inventory Optimization Under Supply Chain Disruptions: Leveraging Large Language Models for Human-Ai Collaborative Decision-Making",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.2139/ssrn.5374695",
+    "title": "Conversational Ai for Inventory Optimization: Leveraging Large Language Models in Supply Chain Management",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.2139/ssrn.5393044",
+    "title": "Higher Profit, Lower Risk? How Large Language Models Shape Decision Behavior in Supply Chain Optimization",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.46254/wc01.20240146",
+    "title": "Leveraging Generative AI and Large Language Models for Sustainable Supply Chain Optimization",
+    "year": 2024,
+    "venue": "Proceedings of the International Conference on Industrial Engineering and Operations Management",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.55041/ijsrem47807",
+    "title": "Application of Large Language Models (LLM’s) for Supply Chain Optimization",
+    "year": 2025,
+    "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.33168/jliss.2026.0203",
+    "title": "The Development History, Technological Optimization, and  Multi-Domain Applications of Large Language Models",
+    "year": 2026,
+    "venue": "Journal of Logistics, Informatics and Service Science",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.18653/v1/2025.emnlp-main.452",
+    "title": "A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.18653/v1/2025.emnlp-main.394",
+    "title": "EcoTune: Token-Efficient Multi-Fidelity Hyperparameter Optimization for Large Language Model Inference",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 3
+  },
+  {
+    "doi": "10.62441/nano-ntp.v20i5.19",
+    "title": "Neuromorphic Optimization in Construction Supply Chain Logistics Management",
+    "year": 2024,
+    "venue": "Nanotechnology Perceptions",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "title:A review of optimization models for logistics and supply chain management",
+    "rel": 3
+  },
+  {
+    "doi": "10.1016/j.dss.2012.05.053",
+    "title": "A review of modeling approaches for sustainable supply chain management",
+    "year": 2013,
+    "venue": "Decision Support Systems",
+    "citations": 795,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.dss.2013.01.013",
+    "title": "Finance sourcing in a supply chain",
+    "year": 2014,
+    "venue": "Decision Support Systems",
+    "citations": 124,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.orl.2012.08.003",
+    "title": "Capacitated assortment and price optimization under the multinomial logit model",
+    "year": 2012,
+    "venue": "Operations Research Letters",
+    "citations": 122,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.cor.2008.06.005",
+    "title": "Optimization of natural gas pipeline transportation using ant colony optimization",
+    "year": 2009,
+    "venue": "Computers &amp; Operations Research",
+    "citations": 109,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.nlp.2023.100020",
+    "title": "Employing large language models in survey research",
+    "year": 2023,
+    "venue": "Natural Language Processing Journal",
+    "citations": 96,
+    "type": "journal-article",
+    "source_query": "title:A survey of large language models for operations research",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.dss.2007.12.006",
+    "title": "On supply chain cash flow risks",
+    "year": 2008,
+    "venue": "Decision Support Systems",
+    "citations": 86,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.dss.2013.09.007",
+    "title": "A supply chain of things: The EAGLET ontology for highly visible supply chains",
+    "year": 2014,
+    "venue": "Decision Support Systems",
+    "citations": 77,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.dss.2018.07.002",
+    "title": "Sustainable supply chain management: Decision models for transformation and maturity",
+    "year": 2018,
+    "venue": "Decision Support Systems",
+    "citations": 68,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/0167-9236(96)00004-8",
+    "title": "Understanding and facilitating group problem structuring and formulation: Mental representations, interaction, and representation aids",
+    "year": 1996,
+    "venue": "Decision Support Systems",
+    "citations": 49,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.dss.2018.08.003",
+    "title": "Supply chain decision support systems based on a novel hierarchical forecasting approach",
+    "year": 2018,
+    "venue": "Decision Support Systems",
+    "citations": 38,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.cor.2019.02.005",
+    "title": "Short-term planning optimization model for underground mines",
+    "year": 2020,
+    "venue": "Computers &amp; Operations Research",
+    "citations": 28,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/978-0-387-71815-6_28",
+    "title": "Adaptive Optimization of Forest Management in A Stochastic World",
+    "year": null,
+    "venue": "International Series In Operations Research amp; Mana",
+    "citations": 24,
+    "type": "book-chapter",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/0167-9236(90)90011-f",
+    "title": "Model visualization: Graphical support for DSS problem structuring and knowledge organization",
+    "year": 1990,
+    "venue": "Decision Support Systems",
+    "citations": 23,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1145/3605770.3625214",
+    "title": "An Empirical Study on Using Large Language Models to Analyze Software Supply Chain Security Failures",
+    "year": 2023,
+    "venue": "Proceedings of the 2023 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses",
+    "citations": 21,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1287/opre.26.5.824",
+    "title": "A Dynamic Optimization Model for Distributed Databases",
+    "year": 1978,
+    "venue": "Operations Research",
+    "citations": 21,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1287/opre.21.3.677",
+    "title": "An Optimization Model for Corporate Financial Planning",
+    "year": 1973,
+    "venue": "Operations Research",
+    "citations": 18,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.orp.2022.100235",
+    "title": "Multi-stage stochastic optimization of islanded utility-microgrids design after natural disasters",
+    "year": 2022,
+    "venue": "Operations Research Perspectives",
+    "citations": 9,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.dss.2013.06.008",
+    "title": "Formal correctness of supply chain design",
+    "year": 2013,
+    "venue": "Decision Support Systems",
+    "citations": 9,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.4018/ijdsst.2015040104",
+    "title": "Integration of Problem Structuring Methods",
+    "year": 2015,
+    "venue": "International Journal of Decision Support System Technology",
+    "citations": 7,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/cai59869.2024.00192",
+    "title": "Optimizing Supply Chain Risk Management: An Integrated Framework Leveraging Large Language Models",
+    "year": 2024,
+    "venue": "2024 IEEE Conference on Artificial Intelligence (CAI)",
+    "citations": 6,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.2139/ssrn.5370043",
+    "title": "Large Language Models for Supply Chain Decisions",
+    "year": 2025,
+    "venue": "SSRN Electronic Journal",
+    "citations": 5,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/bigdata62323.2024.10826017",
+    "title": "Supply Chain Network Extraction and Entity Classification Leveraging Large Language Models",
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Big Data (BigData)",
+    "citations": 5,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/978-3-032-07054-8_7",
+    "title": "Large Language Models for Supply Chain Decisions",
+    "year": 2026,
+    "venue": "Springer Series in Supply Chain Management",
+    "citations": 4,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/978-0-387-71815-6_21",
+    "title": "Optimization of Forest Wildlife Objectives",
+    "year": null,
+    "venue": "International Series In Operations Research amp; Mana",
+    "citations": 3,
+    "type": "book-chapter",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.5772/5343",
+    "title": "Fuzzy Multiple Agent Decision Support Systems for Supply Chain Management",
+    "year": 2008,
+    "venue": "Supply Chain",
+    "citations": 2,
+    "type": "book-chapter",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/0360-8352(89)90170-8",
+    "title": "A natural language system to aid simulation model formulation",
+    "year": 1989,
+    "venue": "Computers &amp; Industrial Engineering",
+    "citations": 2,
+    "type": "journal-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.5715/jnlp.29.112",
+    "title": "Joint Optimization of Word Segmentation and Downstream Model using Downstream Loss",
+    "year": 2022,
+    "venue": "Journal of Natural Language Processing",
+    "citations": 2,
+    "type": "journal-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.cor.2025.107325",
+    "title": "Discovering heuristics with Large Language Models (LLMs) for mixed-integer programs: Single-machine scheduling",
+    "year": 2026,
+    "venue": "Computers &amp; Operations Research",
+    "citations": 1,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.5220/0013703100004670",
+    "title": "Optimization Strategies for Role-Playing Games Based on Large Language Models",
+    "year": 2025,
+    "venue": "Proceedings of the 2nd International Conference on Data Science and Engineering",
+    "citations": 1,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.26434/chemrxiv-2024-9146h",
+    "title": "Large language models design sequence-defined macromolecules via evolutionary optimization",
+    "year": null,
+    "venue": "",
+    "citations": 1,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1201/9781003466451-1",
+    "title": "Distribution and Logistics Network Design in Industry 5.0: Models, Methods, and the Impact of Generative AI and Large Language Models",
+    "year": 2025,
+    "venue": "Smart Logistics in Industry 5.0",
+    "citations": 1,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/3-540-32539-5_36",
+    "title": "Portfolio Optimization Under Partial Information and Convex Constraints in a Hidden Markov Model",
+    "year": null,
+    "venue": "Operations Research Proceedings",
+    "citations": 1,
+    "type": "book-chapter",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.4018/978-1-59904-843-7.ch092",
+    "title": "Supply Chain Information Systems and Decision Support",
+    "year": 2008,
+    "venue": "Encyclopedia of Decision Making and Decision Support Technologies",
+    "citations": 1,
+    "type": "book-chapter",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/access.2025.3642280",
+    "title": "Optimization of Artificial Intelligence Natural Language Processing Model Based on Deep Neural Network",
+    "year": 2026,
+    "venue": "IEEE Access",
+    "citations": 1,
+    "type": "journal-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.2139/ssrn.6066768",
+    "title": "Automated Analysis for Operations Research: Achieving Data Efficiency and Reliability with Large Language Models",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/978-3-031-56097-2_3",
+    "title": "Large Language Models",
+    "year": 2024,
+    "venue": "International Series in Operations Research &amp; Management Science",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1108/dts-11-2025-242",
+    "title": "Editorial: Integrating large language models and operations research for digital transformation and societal governance",
+    "year": 2025,
+    "venue": "Digital Transformation and Society",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.2139/ssrn.4963848",
+    "title": "Language Games, Game Theory, and Large Language Models: A Mathematical Framework",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.55277/researchhub.83pentno.1",
+    "title": "Generative Semantic Exploration: A Mathematical Framework forControlled Creativity in Large Language Models",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "type": "report",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.2139/ssrn.5825027",
+    "title": "Large Language Models for Energy and Carbon Footprint Optimization: A Comprehensive Survey",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/fllm67465.2025.11391195",
+    "title": "Finetune-Then-Merge: Democratizing Large Language Model Accessibility Through Efficiency Optimization",
+    "year": 2025,
+    "venue": "2025 3rd International Conference on Foundation and Large Language Models (FLLM)",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/tevc.2026.3656374/mm1",
+    "title": "LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation_supp1-3656374.pdf",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "component",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.36227/techrxiv.175615629.90190202/v1",
+    "title": "Energy-Aware Prompt Optimization for Large Language Models: Balancing Accuracy, Cost, and Sustainability",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.5220/0013090300003890",
+    "title": "SwarmPrompt: Swarm Intelligence-Driven Prompt Optimization Using Large Language Models",
+    "year": 2025,
+    "venue": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.2139/ssrn.5302700",
+    "title": "Hints at the Epistemic Ambiguity of Mathematical Benchmarks in Large Language Models",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"mathematical optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/access.2025.3605837/mm1",
+    "title": "Extracting Supply Chain Information from News Articles Using Large Language Models: A Fully Automatic Approach_supp1-3605837.pdf",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "component",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.2139/ssrn.5186005",
+    "title": "From Text to Risk: Leveraging Latest Disclosures and Large Language Models for Supply Chain Finance Default Prediction",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.procs.2026.02.467",
+    "title": "Enhancing Procurement Processes in Supply Chain Management with Large Language Models",
+    "year": 2026,
+    "venue": "Procedia Computer Science",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/iiotbdsc64371.2024.00026",
+    "title": "A Study of Internet Users’ Heterogeneity Based on Large Language Models",
+    "year": 2024,
+    "venue": "2024 International Conference on Industrial IoT, Big Data and Supply Chain (IIoTBDSC)",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"supply chain\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1109/icnlp58431.2023.00083",
+    "title": "Research on Optimization Methods for Industrial Model Retrieval",
+    "year": 2023,
+    "venue": "2023 5th International Conference on Natural Language Processing (ICNLP)",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/978-3-030-26215-0_2",
+    "title": "Natural Computing and Optimization",
+    "year": 2020,
+    "venue": "SpringerBriefs in Operations Research",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/978-3-540-77903-2_6",
+    "title": "Forecasting Optimization Model of the U.S. Coal, Energy and Emission Markets",
+    "year": null,
+    "venue": "Operations Research Proceedings",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1287/opre.2023.0377",
+    "title": "Assortment and Price Optimization Under a Multiattribute (Contextual) Choice Model",
+    "year": 2026,
+    "venue": "Operations Research",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.5121/csit.2025.151805",
+    "title": "A MACHINE LEARNING MODEL FOR BYPASS OPTIMIZATION",
+    "year": 2025,
+    "venue": "Natural Language Processing and Computational Linguistics",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.4018/9781599048437.ch092",
+    "title": "Supply Chain Information Systems and Decision Support",
+    "year": null,
+    "venue": "Encyclopedia of Decision Making and Decision Support Technologies",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.4018/ijisscm.2012040103",
+    "title": "Validation in Supply Chain Decision Support Systems",
+    "year": 2012,
+    "venue": "International Journal of Information Systems and Supply Chain Management",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"decision support systems\" \"supply chain\" \"optimization\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1002/9783527826100.ch5",
+    "title": "Model Formulation and Implementation",
+    "year": 2024,
+    "venue": "Model‐Based Optimization for Petroleum Refinery Configuration Design",
+    "citations": 0,
+    "type": "other",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.5715/jnlp.32.355",
+    "title": "Filtered Direct Preference Optimization",
+    "year": 2025,
+    "venue": "Journal of Natural Language Processing",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/j.cirp.2026.04.092",
+    "title": "From natural language to RL formulation: a digital twin–centered optimization framework for manufacturing systems",
+    "year": 2026,
+    "venue": "CIRP Annals",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 2
+  },
+  {
+    "doi": "10.1007/1-4020-0611-x_806",
+    "title": "Problem structuring methods",
+    "year": 2001,
+    "venue": "Encyclopedia of Operations Research and Management Science",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "title:Problem structuring methods in action",
+    "rel": 2
+  },
+  {
+    "doi": "10.3850/978-981-08-7303-5_1663",
+    "title": "Supply Chain Management and Optimization Models",
+    "year": 2010,
+    "venue": "Proceedings of the International Conference on Computer Applications — Management",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "title:A review of optimization models for logistics and supply chain management",
+    "rel": 2
+  },
+  {
+    "doi": "10.1016/s0377-2217(03)00056-0",
+    "title": "Problem structuring methods in action",
+    "year": 2004,
+    "venue": "European Journal of Operational Research",
+    "citations": 562,
+    "type": "journal-article",
+    "source_query": "title:Problem structuring methods in action",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/b106298",
+    "title": "Supply Chain Management and Advanced Planning",
+    "year": 2005,
+    "venue": "",
+    "citations": 131,
+    "type": "book",
+    "source_query": "title:Supply chain management and advanced planning",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-3-540-74512-9",
+    "title": "Supply Chain Management and Advanced Planning",
+    "year": 2008,
+    "venue": "",
+    "citations": 127,
+    "type": "book",
+    "source_query": "title:Supply chain management and advanced planning",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/s40070-013-0021-6",
+    "title": "OR competences: the demands of problem structuring methods",
+    "year": 2014,
+    "venue": "EURO Journal on Decision Processes",
+    "citations": 43,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1111/j.1540-5915.1988.tb00289.x",
+    "title": "The Effects of an Interactive Graphics‐Based DSS to Support Problem Structuring",
+    "year": 1988,
+    "venue": "Decision Sciences",
+    "citations": 40,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-3-642-14131-7",
+    "title": "Supply Chain Management und Advanced Planning",
+    "year": 2010,
+    "venue": "",
+    "citations": 20,
+    "type": "book",
+    "source_query": "title:Supply chain management and advanced planning",
+    "rel": 1
+  },
+  {
+    "doi": "10.1109/icsmc.2000.886396",
+    "title": "Intelligent decision support systems",
+    "year": 2002,
+    "venue": "SMC 2000 Conference Proceedings. 2000 IEEE International Conference on Systems, Man and Cybernetics. 'Cybernetics Evolving to Systems, Humans, Organizations, and their Complex Interactions' (Cat. No.00CH37166)",
+    "citations": 18,
+    "type": "proceedings-article",
+    "source_query": "title:Decision support systems and intelligent systems",
+    "rel": 1
+  },
+  {
+    "doi": "10.1111/j.1540-5915.1991.tb00367.x",
+    "title": "The Interaction Effects Between General Thinking Skills and an Interactive Graphics‐Based DSS to Support Problem Structuring*",
+    "year": 1991,
+    "venue": "Decision Sciences",
+    "citations": 16,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1287/opre.41.2.241",
+    "title": "Making Large-Scale Models Manageable: Modeling from an Operations Management Perspective",
+    "year": 1993,
+    "venue": "Operations Research",
+    "citations": 13,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1145/358274.358286",
+    "title": "An application of artificial intelligence to operations research",
+    "year": 1984,
+    "venue": "Communications of the ACM",
+    "citations": 12,
+    "type": "journal-article",
+    "source_query": "title:Operations research and artificial intelligence",
+    "rel": 1
+  },
+  {
+    "doi": "10.1287/opre.13.1.1",
+    "title": "The Stochastic Properties of Large Battle Models",
+    "year": 1965,
+    "venue": "Operations Research",
+    "citations": 7,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-0-387-71815-6_19",
+    "title": "Log Merchandizing Model Used in Mechanical Harvesting",
+    "year": null,
+    "venue": "International Series In Operations Research amp; Mana",
+    "citations": 7,
+    "type": "book-chapter",
+    "source_query": "\"natural language\" \"optimization model\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.7551/mitpress/15517.003.0003",
+    "title": "Large Language Models",
+    "year": 2025,
+    "venue": "Large Language Models",
+    "citations": 6,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1109/cloud-summit61220.2024.00030",
+    "title": "Enterprise LLMOps: Advancing Large Language Models Operations Practice",
+    "year": 2024,
+    "venue": "2024 IEEE Cloud Summit",
+    "citations": 5,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1016/0167-9236(91)90055-g",
+    "title": "Information structuring and its implementations on a research decision support system",
+    "year": 1991,
+    "venue": "Decision Support Systems",
+    "citations": 4,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.4018/jdsst.2012010101",
+    "title": "A Critical Systems Metamethodology for Problem Situation Structuring",
+    "year": 2012,
+    "venue": "International Journal of Decision Support System Technology",
+    "citations": 3,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.36948/ijfmr.2024.v06i05.28795",
+    "title": "AIOps in Action: Automating AI Deployment and Management of Large Language Models for Scalable and Ethical Operations",
+    "year": 2024,
+    "venue": "International Journal For Multidisciplinary Research",
+    "citations": 2,
+    "type": "journal-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/979-8-8688-0540-0_2",
+    "title": "What Are Large Language Models?",
+    "year": 2024,
+    "venue": "Introduction to Python and Large Language Models",
+    "citations": 2,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/979-8-8688-0515-8",
+    "title": "Large Language Models Projects",
+    "year": 2024,
+    "venue": "",
+    "citations": 2,
+    "type": "book",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-3-7091-2606-6_1",
+    "title": "Intelligent Decision Support Systems",
+    "year": 1991,
+    "venue": "CISM International Centre for Mechanical Sciences",
+    "citations": 2,
+    "type": "book-chapter",
+    "source_query": "title:Decision support systems and intelligent systems",
+    "rel": 1
+  },
+  {
+    "doi": "10.1145/3773985",
+    "title": "Mathematical Language Models: A Survey",
+    "year": 2026,
+    "venue": "ACM Computing Surveys",
+    "citations": 2,
+    "type": "journal-article",
+    "source_query": "title:Mathematical optimization and language models",
+    "rel": 1
+  },
+  {
+    "doi": "10.1145/3644116.3644226",
+    "title": "Research and Application of Large Language Models in HealthcareCurrent Development of Large Language Models in the Healthcare FieldA Framework for Applying Large Language Models and the Opportunities and Challenges of Large Language Models in Healthcare: A Framework for Applying Large Language Models and the Opportunities and Challenges of Large Language Models in Healthcare",
+    "year": 2023,
+    "venue": "Proceedings of the 2023 4th International Symposium on Artificial Intelligence for Medicine Science",
+    "citations": 1,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1017/cbo9780511609947.011",
+    "title": "Issue formulation and problem structuring",
+    "year": 2009,
+    "venue": "Decision Behaviour, Analysis and Support",
+    "citations": 1,
+    "type": "book-chapter",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1023/a:1008276814212",
+    "title": "REMARKS ON THE STATE FORMULATION OF DE RE PRESENT TENSE",
+    "year": 1997,
+    "venue": "Natural Language Semantics",
+    "citations": 1,
+    "type": "journal-article",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-3-030-96318-7",
+    "title": "Intelligent Decision Support Systems",
+    "year": 2022,
+    "venue": "Multiple Criteria Decision Making",
+    "citations": 1,
+    "type": "book",
+    "source_query": "title:Decision support systems and intelligent systems",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-3-031-60597-0",
+    "title": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
+    "year": 2024,
+    "venue": "Lecture Notes in Computer Science",
+    "citations": 1,
+    "type": "book",
+    "source_query": "title:Operations research and artificial intelligence",
+    "rel": 1
+  },
+  {
+    "doi": "10.2139/ssrn.4952259",
+    "title": "Improving Datacenter Networking Operations with Large Language Models and Chat Operations",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.21203/rs.3.rs-5289625/v1",
+    "title": "Improving Datacenter Networking Operations with Large Language Models and Chat Operations",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/979-8-8688-0515-8_1",
+    "title": "Introduction to Large Language Models with OpenAI",
+    "year": 2024,
+    "venue": "Large Language Models Projects",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1201/9781003517245-3",
+    "title": "Large Language Models",
+    "year": 2024,
+    "venue": "Large Language Models",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.5220/0014649700004058",
+    "title": "Large Language Models for Quality Control of Large Language Models",
+    "year": 2026,
+    "venue": "Proceedings of the 14th International Conference on Model-Based Software and Systems Engineering",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.2139/ssrn.5149339",
+    "title": "The Mathematics of Large Language Diffusion Models versus Large Language Autoregressive Models",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/979-8-8688-0515-8_4",
+    "title": "Evaluating Models",
+    "year": 2024,
+    "venue": "Large Language Models Projects",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/979-8-8688-0540-0_1",
+    "title": "Evolution and Significance of Large Language Models",
+    "year": 2024,
+    "venue": "Introduction to Python and Large Language Models",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1201/9781003669012-4",
+    "title": "Large Language Models in Chemistry",
+    "year": 2025,
+    "venue": "Large Language Models for Chemists",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1201/9781003595533-3",
+    "title": "Large Language Models",
+    "year": 2025,
+    "venue": "Concept Drift in Large Language Models",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/979-8-8688-0515-8_5",
+    "title": "Fine-Tuning Models",
+    "year": 2024,
+    "venue": "Large Language Models Projects",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"logistics\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.26481/dis.20140129md",
+    "title": "Improving decision making processes in intellectual disability care : systems thinking and problem structuring techniques to support stakeholders’ engagement in decision making",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "dissertation",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1002/9781119744856.s2",
+    "title": "Problem Structuring Methods",
+    "year": 2024,
+    "venue": "Problem Structuring",
+    "citations": 0,
+    "type": "other",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/springerreference_6007",
+    "title": "Problem structuring methods",
+    "year": null,
+    "venue": "SpringerReference",
+    "citations": 0,
+    "type": "reference-entry",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1109/icsmc.1995.538215",
+    "title": "An explanation subsystem to support decision problem structuring",
+    "year": null,
+    "venue": "1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1515/9781547401567-010",
+    "title": "Chapter 9. Model Accuracy and Optimization",
+    "year": 2019,
+    "venue": "Big Data Analytics Methods",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.22541/au.158948936.63110621",
+    "title": "Optimization-based Cosmetic Formulation: Integration of Mechanistic Model, Surrogate Model, and Heuristics",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.32920/25266610",
+    "title": "Fuzzy Optimization Model of an Incremental Capacity Auction Formulation with GHG Consideration",
+    "year": null,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "\"model formulation\" \"optimization\" \"natural language\"",
+    "rel": 1
+  },
+  {
+    "doi": "10.1515/9783111351605-009",
+    "title": "Language theory and mathematical models",
+    "year": 2025,
+    "venue": "Quantification in Linguistics and Text Analysis",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "title:Mathematical optimization and language models",
+    "rel": 1
+  },
+  {
+    "doi": "10.1037/e572342012-051",
+    "title": "Mathematical models for second-language acquisition",
+    "year": 1964,
+    "venue": "PsycEXTRA Dataset",
+    "citations": 0,
+    "type": "dataset",
+    "source_query": "title:Mathematical optimization and language models",
+    "rel": 1
+  },
+  {
+    "doi": "10.1007/978-3-031-95659-1",
+    "title": "Operations Research and Artificial Intelligence in Healthcare Management",
+    "year": 2026,
+    "venue": "Springer Proceedings in Mathematics &amp; Statistics",
+    "citations": 0,
+    "type": "book",
+    "source_query": "title:Operations research and artificial intelligence",
+    "rel": 1
+  },
+  {
+    "doi": "10.1109/cinti67731.2025.11311841",
+    "title": "A Survey of Large Language Models as Research Assistants",
+    "year": 2025,
+    "venue": "2025 IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI)",
+    "citations": 0,
+    "type": "proceedings-article",
+    "source_query": "title:A survey of large language models for operations research",
+    "rel": 1
+  },
+  {
+    "doi": "10.36227/techrxiv.175502932.20939890/v2",
+    "title": "Diffusion-based Large Language Models Survey",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "type": "posted-content",
+    "source_query": "title:A survey of large language models for operations research",
+    "rel": 1
+  },
+  {
+    "doi": "10.1057/jors.1991.157",
+    "title": "Soft Systems Methodology in Action",
+    "year": 1991,
+    "venue": "Journal of the Operational Research Society",
+    "citations": 11,
+    "type": "journal-article",
+    "source_query": "title:Soft systems methodology in action",
+    "rel": 0
+  },
+  {
+    "doi": "10.30534/ijatcse/2020/144952020",
+    "title": "The problem of structuring indicators of quality of decision software support system",
+    "year": 2020,
+    "venue": "International Journal of Advanced Trends in Computer Science and Engineering",
+    "citations": 2,
+    "type": "journal-article",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 0
+  },
+  {
+    "doi": "10.1007/978-90-481-9045-4_4",
+    "title": "Problem-Structuring Methods for e-Democracy",
+    "year": 2010,
+    "venue": "Advances in Group Decision and Negotiation",
+    "citations": 1,
+    "type": "book-chapter",
+    "source_query": "\"problem structuring methods\" \"decision support\"",
+    "rel": 0
+  },
+  {
+    "doi": "10.56687/9781447305293-005",
+    "title": "Health inequalities, wicked problems and complexity",
+    "year": 2015,
+    "venue": "Studying Health Inequalities",
+    "citations": 1,
+    "type": "book-chapter",
+    "source_query": "title:Wicked problems and social complexity",
+    "rel": 0
+  },
+  {
+    "doi": "10.1007/978-981-95-4632-9_12",
+    "title": "Language Service Management and Operations",
+    "year": 2026,
+    "venue": "Intelligent Language Services",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "\"large language models\" \"operations research\"",
+    "rel": 0
+  },
+  {
+    "doi": "10.51952/9781447305293.005",
+    "title": "Health inequalities, wicked problems and complexity",
+    "year": 2015,
+    "venue": "Studying Health Inequalities",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "title:Wicked problems and social complexity",
+    "rel": 0
+  },
+  {
+    "doi": "10.1332/policypress/9781447305286.003.0002",
+    "title": "Health inequalities, wicked problems and complexity",
+    "year": 2015,
+    "venue": "Studying health inequalities",
+    "citations": 0,
+    "type": "book-chapter",
+    "source_query": "title:Wicked problems and social complexity",
+    "rel": 0
+  },
+  {
+    "doi": "10.1057/ejis.1991.37",
+    "title": "Soft Systems Methodology in Action",
+    "year": 1991,
+    "venue": "European Journal of Information Systems",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "title:Soft systems methodology in action",
+    "rel": 0
+  },
+  {
+    "doi": "10.1016/0377-2217(91)90052-w",
+    "title": "Soft systems methodology in action",
+    "year": 1991,
+    "venue": "European Journal of Operational Research",
+    "citations": 0,
+    "type": "journal-article",
+    "source_query": "title:Soft systems methodology in action",
+    "rel": 0
+  }
+]
