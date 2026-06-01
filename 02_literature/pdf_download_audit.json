@@ -1,0 +1,522 @@
+[
+  {
+    "doi": "10.1016/s0377-2217(03)00056-0",
+    "title": "Problem structuring methods in action",
+    "year": "2004",
+    "venue": "European Journal of Operational Research",
+    "layers": [
+      "Problem structuring / OR formulation"
+    ],
+    "scopus_citations": 601,
+    "crossref_status": 200,
+    "crossref_title": "Problem structuring methods in action",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_s0377-2217(03)00056-0.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/29026565.pdf",
+    "bytes": 680983,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/j.tre.2005.06.003",
+    "title": "Global supply chain design: A literature review and critique",
+    "year": "2005",
+    "venue": "Transportation Research Part E Logistics and Transportation Review",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 647,
+    "crossref_status": 200,
+    "crossref_title": "Global supply chain design: A literature review and critique",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_tre_2005_06_003.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  },
+  {
+    "doi": "10.1016/j.dss.2011.11.015",
+    "title": "The application of discrete event simulation and system dynamics in the logistics and supply chain context",
+    "year": "2012",
+    "venue": "Decision Support Systems",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 385,
+    "crossref_status": 200,
+    "crossref_title": "The application of discrete event simulation and system dynamics in the logistics and supply chain context",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_dss_2011_11_015.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/87655247.pdf",
+    "bytes": 2419661,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/s0360-8352(02)00066-9",
+    "title": "Supply chain modeling: Past, present and future",
+    "year": "2002",
+    "venue": "Computers and Industrial Engineering",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 768,
+    "crossref_status": 200,
+    "crossref_title": "Supply chain modeling: past, present and future",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_s0360-8352(02)00066-9.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/55800746.pdf",
+    "bytes": 807399,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1111/j.1540-5915.1998.tb01356.x",
+    "title": "Modeling supply chain dynamics: A multiagent approach",
+    "year": "1998",
+    "venue": "Decision Sciences",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 698,
+    "crossref_status": 200,
+    "crossref_title": "Modeling Supply Chain Dynamics: A Multiagent Approach*",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1111_j_1540-5915_1998_tb01356_x.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/41789269.pdf",
+    "bytes": 1157177,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/j.dss.2012.05.053",
+    "title": "A review of modeling approaches for sustainable supply chain management",
+    "year": 2013,
+    "venue": "Decision Support Systems",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "A review of modeling approaches for sustainable supply chain management",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_dss_2012_05_053.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/17298821.pdf",
+    "bytes": 539481,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/j.dss.2010.11.020",
+    "title": "A multi-objective optimization for green supply chain network design",
+    "year": 2011,
+    "venue": "Decision Support Systems",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "A multi-objective optimization for green supply chain network design",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_dss_2010_11_020.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/185525987.pdf",
+    "bytes": 1838152,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.46254/wc01.20240146",
+    "title": "Leveraging Generative AI and Large Language Models for Sustainable Supply Chain Optimization",
+    "year": 2024,
+    "venue": "Proceedings of the International Conference on Industrial Engineering and Operations Management",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Leveraging Generative AI and Large Language Models for Sustainable Supply Chain Optimization",
+    "crossref_type": "proceedings-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_46254_wc01_20240146.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  },
+  {
+    "doi": "10.1016/j.ijpe.2009.11.023",
+    "title": "Integrating sustainability into supplier selection with grey system and rough set methodologies",
+    "year": "2010",
+    "venue": "International Journal of Production Economics",
+    "layers": [
+      "Peripheral"
+    ],
+    "scopus_citations": 762,
+    "crossref_status": 200,
+    "crossref_title": "Integrating sustainability into supplier selection with grey system and rough set methodologies",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_ijpe_2009_11_023.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/185531135.pdf",
+    "bytes": 2224710,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1080/00207543.2023.2276811",
+    "title": "From natural language to simulations: applying AI to automate simulation modelling of logistics systems",
+    "year": "2024",
+    "venue": "International Journal of Production Research",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 129,
+    "crossref_status": 200,
+    "crossref_title": "From natural language to simulations: applying AI to automate simulation modelling of logistics systems",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1080_00207543_2023_2276811.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/667595584.pdf",
+    "bytes": 3229958,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/j.dss.2011.11.012",
+    "title": "Decision support systems for logistics and supply chain management",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Decision support systems for logistics and supply chain management",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_dss_2011_11_012.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/668211434.pdf",
+    "bytes": 363100,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/s0098-1354(03)00047-4",
+    "title": "A model predictive control strategy for supply chain optimization",
+    "year": "2003",
+    "venue": "Computers and Chemical Engineering",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 302,
+    "crossref_status": 200,
+    "crossref_title": "A model predictive control strategy for supply chain optimization",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_s0098-1354(03)00047-4.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/185269979.pdf",
+    "bytes": 1624659,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/j.tre.2025.104135",
+    "title": "Generative AI: Opportunities, challenges, and research directions for supply chain resilience",
+    "year": "2025",
+    "venue": "Transportation Research Part E Logistics and Transportation Review",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 59,
+    "crossref_status": 200,
+    "crossref_title": "Generative AI: Opportunities, challenges, and research directions for supply chain resilience",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_tre_2025_104135.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  },
+  {
+    "doi": "10.1016/j.iot.2022.100514",
+    "title": "AI for next generation computing: Emerging trends and future directions",
+    "year": "2022",
+    "venue": "Internet of Things Netherlands",
+    "layers": [
+      "Peripheral"
+    ],
+    "scopus_citations": 620,
+    "crossref_status": 200,
+    "crossref_title": "AI for next generation computing: Emerging trends and future directions",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_iot_2022_100514.pdf",
+    "unpaywall_status": 200,
+    "download_status": "success",
+    "source": "Unpaywall",
+    "url": "https://arxiv.org/pdf/2203.04159",
+    "bytes": 4106999,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1016/j.jfoodeng.2015.11.009",
+    "title": "Virtualization of food supply chains with the internet of things",
+    "year": "2016",
+    "venue": "Journal of Food Engineering",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 418,
+    "crossref_status": 200,
+    "crossref_title": "Virtualization of food supply chains with the internet of things",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_jfoodeng_2015_11_009.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/574215293.pdf",
+    "bytes": 955203,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1287/mnsc.49.10.1387.17309",
+    "title": "Models for supply chains in e-business",
+    "year": "2003",
+    "venue": "Management Science",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 417,
+    "crossref_status": 200,
+    "crossref_title": "Models for Supply Chains in E-Business",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1287_mnsc_49_10_1387_17309.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/554501930.pdf",
+    "bytes": 1236306,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1109/wsc.2005.1574234",
+    "title": "Tutorial on agent-based modeling and simulation",
+    "year": "2005",
+    "venue": "Proceedings Winter Simulation Conference",
+    "layers": [
+      "Peripheral"
+    ],
+    "scopus_citations": 616,
+    "crossref_status": 200,
+    "crossref_title": "Tutorial on agent-based modeling and simulation",
+    "crossref_type": "proceedings-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1109_wsc_2005_1574234.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/41793347.pdf",
+    "bytes": 407928,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.3390/s25092696",
+    "title": "Enhancing Last-Mile Logistics: AI-Driven Fleet Optimization, Mixed Reality, and Large Language Model Assistants for Warehouse Operations",
+    "year": "2025",
+    "venue": "Sensors",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 15,
+    "crossref_status": 200,
+    "crossref_title": "Enhancing Last-Mile Logistics: AI-Driven Fleet Optimization, Mixed Reality, and Large Language Model Assistants for Warehouse Operations",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_3390_s25092696.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  },
+  {
+    "doi": "10.1016/j.dss.2011.10.024",
+    "title": "Network optimization in supply chain: A KBGA approach",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Network optimization in supply chain: A KBGA approach",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1016_j_dss_2011_10_024.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/132529993.pdf",
+    "bytes": 1209283,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.2118/221022-ms",
+    "title": "Leveraging Large Language Models for Cost Management and Supply Chain Optimization",
+    "year": 2024,
+    "venue": "SPE Annual Technical Conference and Exhibition",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Leveraging Large Language Models for Cost Management and Supply Chain Optimization",
+    "crossref_type": "proceedings-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_2118_221022-ms.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  },
+  {
+    "doi": "10.1609/aaai.v39i27.35090",
+    "title": "Enhancing Decision Making Through the Integration of Large Language Models and Operations Research Optimization",
+    "year": "2025",
+    "venue": "Proceedings of the Aaai Conference on Artificial Intelligence",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 2,
+    "crossref_status": 200,
+    "crossref_title": "Enhancing Decision Making Through the Integration of Large Language Models and Operations Research Optimization",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1609_aaai_v39i27_35090.pdf",
+    "unpaywall_status": 200,
+    "download_status": "success",
+    "source": "Unpaywall",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/download/35090/37245",
+    "bytes": 642456,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.21622/ace.2022.02.2.070",
+    "title": "Supply chain management and optimization in transportation logistics",
+    "year": 2022,
+    "venue": "Advances in Computing and Engineering",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Supply chain management and optimization in transportation logistics",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_21622_ace_2022_02_2_070.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "success",
+    "source": "CORE",
+    "url": "https://core.ac.uk/download/552606374.pdf",
+    "bytes": 140756,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1007/978-3-319-42421-7_9",
+    "title": "Multi-echelon Supply Chain Optimization: Methods and Application Examples",
+    "year": 2017,
+    "venue": "Lecture Notes in Logistics",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Multi-echelon Supply Chain Optimization: Methods and Application Examples",
+    "crossref_type": "book-chapter",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1007_978-3-319-42421-7_9.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  },
+  {
+    "doi": "10.54097/9wszed25",
+    "title": "Supply Chain Optimization Based on Large Language Models (LLMs): Global Supply Chain Risk Assessment",
+    "year": 2025,
+    "venue": "Journal of Computer Science and Artificial Intelligence",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Supply Chain Optimization Based on Large Language Models (LLMs): Global Supply Chain Risk Assessment",
+    "crossref_type": "journal-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_54097_9wszed25.pdf",
+    "unpaywall_status": 200,
+    "download_status": "success",
+    "source": "Unpaywall",
+    "url": "https://jocsai.com/index.php/jcsai/article/download/59/58",
+    "bytes": 305100,
+    "verified_pdf": true
+  },
+  {
+    "doi": "10.1109/icac65379.2025.11196207",
+    "title": "Harnessing the Power of Large Language Model for Natural Language-Driven Task Scheduling Optimization",
+    "year": 2025,
+    "venue": "2025 30th International Conference on Automation and Computing (ICAC)",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "scopus_citations": 0,
+    "crossref_status": 200,
+    "crossref_title": "Harnessing the Power of Large Language Model for Natural Language-Driven Task Scheduling Optimization",
+    "crossref_type": "proceedings-article",
+    "pdf_path": "/home/andrisetiawan/zabka-optimisation/05_refs/10_1109_icac65379_2025_11196207.pdf",
+    "unpaywall_status": 200,
+    "core_status": 200,
+    "download_status": "failed",
+    "source": "none",
+    "bytes": 0,
+    "verified_pdf": false
+  }
+]
