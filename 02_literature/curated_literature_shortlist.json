@@ -1,0 +1,614 @@
+[
+  {
+    "title": "Problem structuring methods in action",
+    "doi": "10.1016/s0377-2217(03)00056-0",
+    "year": "2004",
+    "venue": "European Journal of Operational Research",
+    "sources": [
+      "Scopus",
+      "CrossrefSeed",
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 601,
+    "crossref_citations": 562,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Problem structuring / OR formulation"
+    ],
+    "rank_score": 13.82
+  },
+  {
+    "title": "Global supply chain design: A literature review and critique",
+    "doi": "10.1016/j.tre.2005.06.003",
+    "year": "2005",
+    "venue": "Transportation Research Part E Logistics and Transportation Review",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 647,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 11.469999999999999
+  },
+  {
+    "title": "The application of discrete event simulation and system dynamics in the logistics and supply chain context",
+    "doi": "10.1016/j.dss.2011.11.015",
+    "year": "2012",
+    "venue": "Decision Support Systems",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 385,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 10.85
+  },
+  {
+    "title": "Supply chain modeling: Past, present and future",
+    "doi": "10.1016/s0360-8352(02)00066-9",
+    "year": "2002",
+    "venue": "Computers and Industrial Engineering",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 768,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 10.68
+  },
+  {
+    "title": "Modeling supply chain dynamics: A multiagent approach",
+    "doi": "10.1111/j.1540-5915.1998.tb01356.x",
+    "year": "1998",
+    "venue": "Decision Sciences",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 698,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 9.98
+  },
+  {
+    "title": "A review of modeling approaches for sustainable supply chain management",
+    "doi": "10.1016/j.dss.2012.05.053",
+    "year": 2013,
+    "venue": "Decision Support Systems",
+    "sources": [
+      "CrossrefSeed",
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 795,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 9.975
+  },
+  {
+    "title": "A multi-objective optimization for green supply chain network design",
+    "doi": "10.1016/j.dss.2010.11.020",
+    "year": 2011,
+    "venue": "Decision Support Systems",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 491,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 9.455
+  },
+  {
+    "title": "Leveraging Generative AI and Large Language Models for Sustainable Supply Chain Optimization",
+    "doi": "10.46254/wc01.20240146",
+    "year": 2024,
+    "venue": "Proceedings of the International Conference on Industrial Engineering and Operations Management",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 9.0
+  },
+  {
+    "title": "Integrating sustainability into supplier selection with grey system and rough set methodologies",
+    "doi": "10.1016/j.ijpe.2009.11.023",
+    "year": "2010",
+    "venue": "International Journal of Production Economics",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 762,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Peripheral"
+    ],
+    "rank_score": 8.620000000000001
+  },
+  {
+    "title": "From natural language to simulations: applying AI to automate simulation modelling of logistics systems",
+    "doi": "10.1080/00207543.2023.2276811",
+    "year": "2024",
+    "venue": "International Journal of Production Research",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 129,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 8.29
+  },
+  {
+    "title": "Decision support systems for logistics and supply chain management",
+    "doi": "10.1016/j.dss.2011.11.012",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "sources": [
+      "CrossrefSeed",
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 19,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 8.094999999999999
+  },
+  {
+    "title": "A model predictive control strategy for supply chain optimization",
+    "doi": "10.1016/s0098-1354(03)00047-4",
+    "year": "2003",
+    "venue": "Computers and Chemical Engineering",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 302,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 8.02
+  },
+  {
+    "title": "Generative AI: Opportunities, challenges, and research directions for supply chain resilience",
+    "doi": "10.1016/j.tre.2025.104135",
+    "year": "2025",
+    "venue": "Transportation Research Part E Logistics and Transportation Review",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 59,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.59
+  },
+  {
+    "title": "AI for next generation computing: Emerging trends and future directions",
+    "doi": "10.1016/j.iot.2022.100514",
+    "year": "2022",
+    "venue": "Internet of Things Netherlands",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 620,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Peripheral"
+    ],
+    "rank_score": 7.2
+  },
+  {
+    "title": "Virtualization of food supply chains with the internet of things",
+    "doi": "10.1016/j.jfoodeng.2015.11.009",
+    "year": "2016",
+    "venue": "Journal of Food Engineering",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 418,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 7.18
+  },
+  {
+    "title": "Models for supply chains in e-business",
+    "doi": "10.1287/mnsc.49.10.1387.17309",
+    "year": "2003",
+    "venue": "Management Science",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 417,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 7.17
+  },
+  {
+    "title": "Tutorial on agent-based modeling and simulation",
+    "doi": "10.1109/wsc.2005.1574234",
+    "year": "2005",
+    "venue": "Proceedings Winter Simulation Conference",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 616,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Peripheral"
+    ],
+    "rank_score": 7.16
+  },
+  {
+    "title": "Enhancing Last-Mile Logistics: AI-Driven Fleet Optimization, Mixed Reality, and Large Language Model Assistants for Warehouse Operations",
+    "doi": "10.3390/s25092696",
+    "year": "2025",
+    "venue": "Sensors",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 15,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.15
+  },
+  {
+    "title": "Network optimization in supply chain: A KBGA approach",
+    "doi": "10.1016/j.dss.2011.10.024",
+    "year": 2012,
+    "venue": "Decision Support Systems",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 20,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 7.1
+  },
+  {
+    "title": "Leveraging Large Language Models for Cost Management and Supply Chain Optimization",
+    "doi": "10.2118/221022-ms",
+    "year": 2024,
+    "venue": "SPE Annual Technical Conference and Exhibition",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 5,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.025
+  },
+  {
+    "title": "Enhancing Decision Making Through the Integration of Large Language Models and Operations Research Optimization",
+    "doi": "10.1609/aaai.v39i27.35090",
+    "year": "2025",
+    "venue": "Proceedings of the Aaai Conference on Artificial Intelligence",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 2,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.02
+  },
+  {
+    "title": "Supply chain management and optimization in transportation logistics",
+    "doi": "10.21622/ace.2022.02.2.070",
+    "year": 2022,
+    "venue": "Advances in Computing and Engineering",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 3,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 7.015
+  },
+  {
+    "title": "Multi-echelon Supply Chain Optimization: Methods and Application Examples",
+    "doi": "10.1007/978-3-319-42421-7_9",
+    "year": 2017,
+    "venue": "Lecture Notes in Logistics",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 2,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation"
+    ],
+    "rank_score": 7.01
+  },
+  {
+    "title": "Supply Chain Optimization Based on Large Language Models (LLMs): Global Supply Chain Risk Assessment",
+    "doi": "10.54097/9wszed25",
+    "year": 2025,
+    "venue": "Journal of Computer Science and Artificial Intelligence",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 1,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.005
+  },
+  {
+    "title": "Harnessing the Power of Large Language Model for Natural Language-Driven Task Scheduling Optimization",
+    "doi": "10.1109/icac65379.2025.11196207",
+    "year": 2025,
+    "venue": "2025 30th International Conference on Automation and Computing (ICAC)",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 1,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.005
+  },
+  {
+    "title": "Distribution and Logistics Network Design in Industry 5.0: Models, Methods, and the Impact of Generative AI and Large Language Models",
+    "doi": "10.1201/9781003466451-1",
+    "year": 2025,
+    "venue": "Smart Logistics in Industry 5.0",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 1,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.005
+  },
+  {
+    "title": "Using large language models (LLMs) to support simulation-based optimization in supply chain management",
+    "doi": "10.14743/apem2025.4.554",
+    "year": "2025",
+    "venue": "Advances in Production Engineering and Management",
+    "sources": [
+      "Scopus"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "Benchmarking Large Language Models on Network Optimization",
+    "doi": "10.5121/oraj.2025.12201",
+    "year": 2025,
+    "venue": "Operations Research and Applications : An International Journal",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "Inventory Optimization Under Supply Chain Disruptions: Leveraging Large Language Models for Human-Ai Collaborative Decision-Making",
+    "doi": "10.2139/ssrn.5316671",
+    "year": null,
+    "venue": "",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM",
+      "Human-AI decision support"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "Conversational Ai for Inventory Optimization: Leveraging Large Language Models in Supply Chain Management",
+    "doi": "10.2139/ssrn.5374695",
+    "year": null,
+    "venue": "",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "Higher Profit, Lower Risk? How Large Language Models Shape Decision Behavior in Supply Chain Optimization",
+    "doi": "10.2139/ssrn.5393044",
+    "year": null,
+    "venue": "",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "Application of Large Language Models (LLM’s) for Supply Chain Optimization",
+    "doi": "10.55041/ijsrem47807",
+    "year": 2025,
+    "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "The Development History, Technological Optimization, and  Multi-Domain Applications of Large Language Models",
+    "doi": "10.33168/jliss.2026.0203",
+    "year": 2026,
+    "venue": "Journal of Logistics, Informatics and Service Science",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "Logistics / SCM DSS + optimisation",
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization",
+    "doi": "10.18653/v1/2025.emnlp-main.452",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  },
+  {
+    "title": "EcoTune: Token-Efficient Multi-Fidelity Hyperparameter Optimization for Large Language Model Inference",
+    "doi": "10.18653/v1/2025.emnlp-main.394",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "sources": [
+      "CrossrefSearch"
+    ],
+    "scopus_citations": 0,
+    "crossref_citations": 0,
+    "core_citations": 0,
+    "abstract": "",
+    "layers": [
+      "AI/GenAI in SCM/OM"
+    ],
+    "rank_score": 7.0
+  }
+]
